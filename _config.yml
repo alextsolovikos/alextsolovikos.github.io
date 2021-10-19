@@ -29,7 +29,7 @@ url: https://alextsolovikos.github.io # the base hostname & protocol for your si
 github_username:  alextsolovikos
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
