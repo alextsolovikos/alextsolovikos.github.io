@@ -6,9 +6,6 @@ order: 2
 header-includes:
   - \usepackage{pdfpages}
 ---
-```{r label, out.width = "85%", fig.cap = "Resume"}
-knitr::include_graphics(path = "/docs/Resume.pdf")
-`````
 
-\includepdf[pages=-,nup=2,pagecommand={}]{/docs/Resume.pdf}
+<object data="docs/Resume.pdf" width="1000" height="1000" type='application/pdf'></object>
 
