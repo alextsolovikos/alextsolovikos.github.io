@@ -3,7 +3,9 @@ layout: page
 published: true
 title: Resume
 order: 2
+header-includes:
+  - \usepackage{pdfpages}
 ---
 
-![Resume](/docs/Resume.pdf "Resume")
+\includepdf[pages=-,nup=2,pagecommand={}]{/docs/Resume.pdf}
 
