@@ -11,8 +11,8 @@ In this work, we consider the problem of steering the first two moments of the u
 ### Learned (Cautious) Model vs Exact Model
 
 <p float="left">
-  <img src="docs/gp_position_uncertainties.png" width="350" />
-  <img src="docs/exact_position_uncertainties.png" width="350" />
+  <img src="/docs/gp_position_uncertainties.png" width="350" />
+  <img src="/docs/exact_position_uncertainties.png" width="350" />
 </p>
 
 [Paper](https://arxiv.org/pdf/2010.00778.pdf) | [Presentation](/docs/MECC_2021_Presentation_Cautious_Nonlinear_Covariance_Steering_using_Variational_Gaussian_Process_Predictive_Models.pdf) | [Code](https://github.com/alextsolovikos/greedyGPCS)
