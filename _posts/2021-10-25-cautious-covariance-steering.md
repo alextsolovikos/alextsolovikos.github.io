@@ -1,13 +1,14 @@
----
-layout: post
-title: Cautious Nonlinear Covariance Steering using Variational Gaussian Process Predictive Models
-categories: Research
----
 <style>
 td, th {
    border: none!important;
 }
 </style>
+---
+layout: post
+title: Cautious Nonlinear Covariance Steering using Variational Gaussian Process Predictive Models
+categories: Research
+---
+
 
 Presented at the inaugural Modeling, Estimation, and Control Conference 2021 in Austin, TX
 
