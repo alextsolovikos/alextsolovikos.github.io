@@ -1,8 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 ---
 layout: post
 title: Cautious Nonlinear Covariance Steering using Variational Gaussian Process Predictive Models
