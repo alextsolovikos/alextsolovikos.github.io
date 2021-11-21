@@ -18,7 +18,7 @@ h1{
   {% for post in paginator.posts %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
+        <h1 style="font-size:20px; color: #2e6c80;" align="left">{{ post.title }}</h1>
 
         <div>
           <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
