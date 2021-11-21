@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Distributed Covariance Steering with Consensus ADMM for Stochastic Multi-Agent Systems | Robotics\: Science and Systems 2021
+title: Distributed Covariance Steering with Consensus ADMM for Stochastic Multi-Agent Systems | Robotics - Science and Systems 2021
 categories: Research
 ---
 
