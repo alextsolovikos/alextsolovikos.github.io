@@ -9,11 +9,16 @@ Mechanical Engineer (BS/MS with highest honors, NTUA) and Aerospace Engineering 
 
 I'm always looking for challenging problems with a purpose to work on!
 
+h1{
+ color:#00FF00;
+ style="font-size:60px;
+}
+
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
-        <h3>{{ post.title }}</h3>
+        <h1>{{ post.title }}</h1>
 
         <div>
           <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
