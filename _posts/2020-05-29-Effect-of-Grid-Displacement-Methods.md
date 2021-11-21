@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Effect of grid displacement models on sensitivity derivatives computed by the continuous adjoint method in aerodynamic and conjugate heat transfer shape optimization
+title: Effect of grid displacement models on sensitivity derivatives computed by the continuous adjoint method in aerodynamic and conjugate heat transfer shape optimization | Engineering Optimization
 categories: Research
 ---
 
