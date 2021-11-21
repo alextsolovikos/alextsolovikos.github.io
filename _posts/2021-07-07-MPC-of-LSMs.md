@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Model Predictive Control of Material Volumes with Application to Vortical Structures
+title: Model Predictive Control of Material Volumes with Application to Vortical Structures | AIAA Journal
 categories: Research
 ---
 
