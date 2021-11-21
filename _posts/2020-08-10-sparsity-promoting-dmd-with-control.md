@@ -12,4 +12,4 @@ Control and estimation of fluid systems is a challenging problem that requires a
 
 ![](/docs/dmdcsp_flat_plate_wake.gif)
 
-[Paper](https://ieeexplore.ieee.org/abstract/document/9164896) | [Presentation](/docs/Presentation_Estimation_and_Control_of_Fluid_Flows_using_Sparsity_Promoting_Dynamic_Mode_Decomposition.pdf) | [Code](https://github.com/alextsolovikos/DMDcsp)
+[Paper](https://ieeexplore.ieee.org/abstract/document/9164896) | [Presentation](https://alextsolovikos.github.io/docs/Presentation_Estimation_and_Control_of_Fluid_Flows_using_Sparsity_Promoting_Dynamic_Mode_Decomposition.pdf) | [Code](https://github.com/alextsolovikos/DMDcsp)
