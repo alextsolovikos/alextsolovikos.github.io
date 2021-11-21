@@ -13,4 +13,4 @@ Learned (Cautious) Model   |  Exact Model
 :-------------------------:|:-------------------------:
 ![](/docs/gp_position_uncertainties.png)  |  ![](/docs/exact_position_uncertainties.png)
 
-[Paper](https://arxiv.org/pdf/2010.00778.pdf) | [Presentation](/docs/MECC_2021_Presentation_Cautious_Nonlinear_Covariance_Steering_using_Variational_Gaussian_Process_Predictive_Models.pdf) | [Code](https://github.com/alextsolovikos/greedyGPCS)
+[Paper](https://arxiv.org/pdf/2010.00778.pdf) | [Presentation](https://alextsolovikos.github.io/docs/MECC_2021_Presentation_Cautious_Nonlinear_Covariance_Steering_using_Variational_Gaussian_Process_Predictive_Models.pdf) | [Code](https://github.com/alextsolovikos/greedyGPCS)
