@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cautious Nonlinear Covariance Steering using Variational Gaussian Process Predictive Models
+title: Cautious Nonlinear Covariance Steering using Variational Gaussian Process Predictive Models | MECC 2021
 categories: Research
 ---
 
