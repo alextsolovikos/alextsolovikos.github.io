@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Estimation and Control of Fluid Flows Using Sparsity-Promoting Dynamic Mode Decomposition
+title: Estimation and Control of Fluid Flows Using Sparsity-Promoting Dynamic Mode Decomposition | IEEE Control Systems Letters
 categories: Research
 ---
 
