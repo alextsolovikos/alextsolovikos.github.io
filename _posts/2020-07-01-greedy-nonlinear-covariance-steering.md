@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Greedy Finite-Horizon Covariance Steering for Discrete-Time Stochastic Nonlinear Systems Based on the Unscented Transform
+title: Greedy Finite-Horizon Covariance Steering for Discrete-Time Stochastic Nonlinear Systems Based on the Unscented Transform | ACC 2020
 categories: Research
 ---
 
