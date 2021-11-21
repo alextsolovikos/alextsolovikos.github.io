@@ -11,4 +11,4 @@ In this paper, a model predictive control algorithm for selectively steering mat
 
 ![](/docs/mpc_of_lsms_animation.gif)
 
-[Paper](https://arc.aiaa.org/doi/abs/10.2514/1.J060413) | [Short Presentation](alextsolovikos.github.io/docs/Short_Presentation_MPC_of_Fluid_Volumes.pdf) | [Code](https://github.com/alextsolovikos/mpc_of_fluid_volumes)
+[Paper](https://arc.aiaa.org/doi/abs/10.2514/1.J060413) | [Short Presentation](https://alextsolovikos.github.io/docs/Short_Presentation_MPC_of_Fluid_Volumes.pdf) | [Code](https://github.com/alextsolovikos/mpc_of_fluid_volumes)
