@@ -10,4 +10,4 @@ Turbulent flows are dominated by large-scale motions with temporal and spatial c
 
 ![](/docs/control_of_synthetic_lsms.gif)
 
-Presentation (coming soon)
+[Presentation](/docs/APS_DFD_2021_Alex_Tsolovikos_Control_of_Large_Scale_Motions_in_Boundary_Layers.pdf)
