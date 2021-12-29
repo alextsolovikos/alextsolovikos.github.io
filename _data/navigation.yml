@@ -1,0 +1,17 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Resume"
+    url: /docs/Resume.pdf
+
+  - title: "Google Scholar"
+    url: https://scholar.google.com/citations?user=r7HwoxEAAAAJ
+
+  - title: "Linkedin"
+    url: https://www.linkedin.com/in/alextsolovikos
+    
+  - title: "GitHub"
+    url: https://github.com/alextsolovikos
+        
