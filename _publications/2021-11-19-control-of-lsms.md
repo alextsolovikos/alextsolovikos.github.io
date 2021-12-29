@@ -1,6 +1,6 @@
 ---
 title: Control of Large-Scale Motions in Boundary Layers
-venue: 74th Annual Meeting of the APS Division of Fluid Dynamics, 2021, Phoenix, AZ.
+venue: Presented at the 74th Annual Meeting of the APS Division of Fluid Dynamics, Phoenix, AZ, 2021.
 categories: Research
 ---
 
