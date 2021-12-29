@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alex Tsolovikos"
-  avatar           : "/images/profile.jpeg"
+  avatar           : "profile.jpeg"
   bio              : "Ph.D. candidate in Aerospace Engineering at the University of Texas at Austin using Machine Learning to predict and control the future."
   location         : "Austin, TX"
   employer         :
