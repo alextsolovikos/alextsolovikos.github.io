@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Toward Model-Based Control of Near-Wall Turbulent Coherent Structures | AIAA Scitech 2020 Forum
+title: Toward Model-Based Control of Near-Wall Turbulent Coherent Structures
+venue: AIAA Scitech 2020 Forum
 categories: Research
 ---
 
