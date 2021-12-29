@@ -1,6 +1,6 @@
 ---
 title: Estimation and Control of Fluid Flows Using Sparsity-Promoting Dynamic Mode Decomposition
-venue: IEEE Control Systems Letters
+venue: Published in the IEEE Control Systems Letters, 2021.
 categories: Research
 ---
 

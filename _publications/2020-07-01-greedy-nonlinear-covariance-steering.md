@@ -1,6 +1,6 @@
 ---
 title: Greedy Finite-Horizon Covariance Steering for Discrete-Time Stochastic Nonlinear Systems Based on the Unscented Transform
-venue: 2020 American Control Conference
+venue: Presented at the 2020 American Control Conference.
 categories: Research
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Cautious Nonlinear Covariance Steering using Variational Gaussian Process Predictive Models | MECC 2021
-venue: Modeling, Estimation, and Control Conference 2021 in Austin, TX.
+title: Cautious Nonlinear Covariance Steering using Variational Gaussian Process Predictive Models
+venue: Presented at the inaugural Modeling, Estimation, and Control Conference 2021 in Austin, TX.
 categories: Research
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Model Predictive Control of Material Volumes with Application to Vortical Structures
-venue: AIAA Journal
+venue: Published in the AIAA Journal, 2021.
 categories: Research
 ---
 
