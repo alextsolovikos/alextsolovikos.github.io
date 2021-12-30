@@ -43,7 +43,7 @@ Here are some of the topics that I am working on:
       <td colspan=2 style="width: 600px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
         <h2>Motion Prediction</h2>
         <br>
-        <img src="https://alextsolovikos.github.io/docs/transformer_example_prediction.png" alt="Motion Prediction" width="auto" width="500px">
+        <img src="https://alextsolovikos.github.io/docs/transformer_example_prediction.png" alt="Motion Prediction" width="500px">
       </td>
     </tr>
   </tbody>
@@ -56,22 +56,20 @@ Through my involvement in the above topics, I have been using and developing mac
 <table style="margin-left: auto; margin-right: auto; border: 0px;">
   <tbody>
     <tr>
-      <td style="width: 200px; height: 200px; text-align: center; vertical-align: top; border: 0px;">
+      <td style="width: 200px; height: 300px; text-align: center; vertical-align: top; border: 0px;">
         <h3>Dynamic Mode Decomposition</h3>
         <br>
         <img src="https://alextsolovikos.github.io/docs/dmd_sketch.png" alt="Dynamic Mode Decomposition" width="200px">
       </td>
-      <td style="width: 200px; height: 200px; text-align: center; vertical-align: top; border: 0px;">
+      <td style="width: 200px; height: 300px; text-align: center; vertical-align: top; border: 0px;">
         <h3>Gaussian Processes</h3>
         <br>
         <img src="https://alextsolovikos.github.io/docs/gp_sketch.png" alt="Gaussian Processes" width="200px">
       </td>
-    </tr>
-    <tr>
-      <td colspan=2 style="width: 400px; height: 300px; text-align: center; vertical-align: top; border: 0px;">
-        <h2>Transformers</h2>
+      <td style="width: 200px; height: 300px; text-align: center; vertical-align: top; border: 0px;">
+        <h3>Transformers</h3>
         <br>
-        <img src="https://alextsolovikos.github.io/docs/transformer_sketch.png" alt="Transformer" width="auto" width="300px">
+        <img src="https://alextsolovikos.github.io/docs/transformer_sketch.png" alt="Transformer" width="200px">
       </td>
     </tr>
   </tbody>
