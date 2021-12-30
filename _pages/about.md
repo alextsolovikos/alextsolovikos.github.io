@@ -20,7 +20,7 @@ Here are some of the projects that I'm working on and the tools I am developing.
 ## Topics
 
 
-<table style="width: 700px; height: 446px; margin-left: auto; margin-right: auto; border: 0px solid black;">
+<table style="margin-left: auto; margin-right: auto; border: 0px solid black;">
 <tbody>
 <tr>
 <td style="width: 350px; text-align: center; border: 0px solid black;">
