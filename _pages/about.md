@@ -20,24 +20,41 @@ Here are some of the projects that I'm working on and the tools I am developing.
 ## Topics
 
 
-<table style="width: 1200px; height: 446px; margin-left: auto; margin-right: auto; border: 0px solid black;">
-<tbody>
-<tr>
-<td style="width: 600px; text-align: center;">
-<h3>Data-Driven Dynamics and Control</h3>
-<br /><img src="https://alextsolovikos.github.io/images/image-alignment-150x150.jpg" alt="Data-Driven Dynamics and Control" width="150" height="150" style="float:right"/></td>
-<td style="width: 600px; text-align: center;">
-<h3>Flow Control</h3>
-<br /><img src="https://alextsolovikos.github.io/images/image-alignment-150x150.jpg" alt="Flow Control" width="150" height="150" /></td>
-</tr>
-<tr>
-<td style="width: 600px; text-align: center;">
-<h3>Stochastic Optimal Control</h3>
-<br /><img src="https://alextsolovikos.github.io/images/image-alignment-150x150.jpg" alt="Stochastic Optimal Control" width="150" height="150" /></td>
-<td style="width: 600px; text-align: center;">
-<h3>Motion Prediction</h3>
-<br /><img src="https://alextsolovikos.github.io/images/image-alignment-150x150.jpg" alt="Motion Prediction" width="150" height="150" /></td>
-</tr>
-</tbody>
-</table>
+### Data-Driven Dynamics and Control
+> - Paper 1
+> - Paper 2
+> - Paper 3
+
+### Flow Control
+> - Paper 1
+> - Paper 2
+> - Paper 3
+
+### Stochastic Optimal Control
+> - Paper 1
+> - Paper 2
+> - Paper 3
+
+### Motion Prediction
+> - Paper 1
+> - Paper 2
+> - Paper 3
+
+
+## Tools
+
+
+### Dynamic Mode Decomposition
+> - Paper 1
+> - Paper 2
+> - Paper 3
+
+### Gaussian Processes
+> - Paper 1
+> - Paper 2
+
+### Transformers
+> - (Coming soon)
+
+
 
