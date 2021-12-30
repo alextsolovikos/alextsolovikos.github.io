@@ -30,10 +30,10 @@ Here are some of the topics that I am working on:
 <tr>
 <td style="height: 250px; text-align: center; border: 0px solid black;">
 <h2>Stochastic Optimal Control</h2>
-<br /><img src="https://alextsolovikos.github.io/docs/greedy_covariance_2d.png" alt="Stochastic Optimal Control" height="200"/></td>
+<br /><img src="https://alextsolovikos.github.io/docs/greedy_covariance_2d.png" alt="Stochastic Optimal Control"/></td>
 <td style="height: 250px; text-align: center; border: 0px solid black;">
 <h2>Motion Prediction</h2>
-<br /><img src="https://alextsolovikos.github.io/docs/transformer-example-prediction.png" alt="Motion Prediction" height="200"/></td>
+<br /><img src="https://alextsolovikos.github.io/docs/transformer-example-prediction.png" alt="Motion Prediction"/></td>
 </tr>
 </tbody>
 </table>
