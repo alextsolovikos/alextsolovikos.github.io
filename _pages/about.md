@@ -70,7 +70,7 @@ Here are some of the projects that I'm working on and the tools I am developing.
 <tr>
 <td style="width: 350px; text-align: center;">
 <h3>Stochastic Optimal Control</h3>
-<br /><img src="https://alextsolovikos.github.io/images/image-alignment-150x150.jpg" alt="Stochastic Optimal Control" width="150" height="150" /></td>
+<br /><img src="https://alextsolovikos.github.io/docs/greedy_covariance_2d.png" alt="Stochastic Optimal Control" width="150"/></td>
 <td style="width: 350px; text-align: center;">
 <h3>Motion Prediction</h3>
 <br /><img src="https://alextsolovikos.github.io/images/image-alignment-150x150.jpg" alt="Motion Prediction" width="150" height="150" /></td>
