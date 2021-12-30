@@ -20,18 +20,18 @@ Here are some of the topics that I am working on:
 <table style="margin-left: auto; margin-right: auto; border: 0px solid black;">
 <tbody>
 <tr>
-<td style="width: 350px; text-align: center; border: 0px solid black;">
+<td style="height: 250px; text-align: center; border: 0px solid black;">
 <h2>Data-Driven Dynamics and Control</h2>
 <br /><img src="https://alextsolovikos.github.io/docs/deep_gp_koopman_example.png" alt="Data-Driven Dynamics and Control" height="200"/></td>
-<td style="width: 350px; text-align: center;">
+<td style="height: 250px; text-align: center; border: 0px solid black;">
 <h2>Flow Control</h2>
 <br /><img src="https://alextsolovikos.github.io/docs/multiple_lsms_dns_overview.png" alt="Flow Control" height="200"/></td>
 </tr>
 <tr>
-<td style="width: 350px; text-align: center;">
+<td style="height: 250px; text-align: center; border: 0px solid black;">
 <h2>Stochastic Optimal Control</h2>
 <br /><img src="https://alextsolovikos.github.io/docs/greedy_covariance_2d.png" alt="Stochastic Optimal Control" height="200"/></td>
-<td style="width: 350px; text-align: center;">
+<td style="height: 250px; text-align: center; border: 0px solid black;">
 <h2>Motion Prediction</h2>
 <br /><img src="https://alextsolovikos.github.io/docs/transformer-example-prediction.png" alt="Motion Prediction" height="200"/></td>
 </tr>
