@@ -60,20 +60,20 @@ Here are some of the projects that I'm working on and the tools I am developing.
 <table style="width: 700px; height: 446px; margin-left: auto; margin-right: auto; border: 0px solid black;">
 <tbody>
 <tr>
+<td style="width: 350px; text-align: center; border: 0px solid black;">
+<h2>Data-Driven Dynamics and Control</h2>
+<br /><img src="https://alextsolovikos.github.io/docs/deep_gp_koopman_example.png" alt="Data-Driven Dynamics and Control" height="300"/></td>
 <td style="width: 350px; text-align: center;">
-<h3>Data-Driven Dynamics and Control</h3>
-<br /><img src="https://alextsolovikos.github.io/docs/deep_gp_koopman_example.png" alt="Data-Driven Dynamics and Control" width="300"/></td>
-<td style="width: 350px; text-align: center;">
-<h3>Flow Control</h3>
-<br /><img src="https://alextsolovikos.github.io/docs/multiple_lsms_dns_overview.png" alt="Flow Control" width="340"/></td>
+<h2>Flow Control</h2>
+<br /><img src="https://alextsolovikos.github.io/docs/multiple_lsms_dns_overview.png" alt="Flow Control" height="300"/></td>
 </tr>
 <tr>
 <td style="width: 350px; text-align: center;">
-<h3>Stochastic Optimal Control</h3>
-<br /><img src="https://alextsolovikos.github.io/docs/greedy_covariance_2d.png" alt="Stochastic Optimal Control" width="300"/></td>
+<h2>Stochastic Optimal Control</h2>
+<br /><img src="https://alextsolovikos.github.io/docs/greedy_covariance_2d.png" alt="Stochastic Optimal Control" height="300"/></td>
 <td style="width: 350px; text-align: center;">
-<h3>Motion Prediction</h3>
-<br /><img src="https://alextsolovikos.github.io/docs/transformer-example-prediction.png" alt="Motion Prediction" width="300"/></td>
+<h2>Motion Prediction</h2>
+<br /><img src="https://alextsolovikos.github.io/docs/transformer-example-prediction.png" alt="Motion Prediction" height="300"/></td>
 </tr>
 </tbody>
 </table>
