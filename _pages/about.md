@@ -52,18 +52,29 @@ Here are some of the topics that I am working on:
 
 Through my involvement in the above topics, I have been using and developing machine learning prediction models using the following tools:
 
-### Dynamic Mode Decomposition
-> - Paper 1
-> - Paper 2
-> - Paper 3
 
-### Gaussian Processes
-> - Paper 1
-> - Paper 2
-
-### Transformers
-> - (Coming soon)
-
-
+<table style="margin-left: auto; margin-right: auto; border: 0px;">
+  <tbody>
+    <tr>
+      <td style="width: 200px; height: 200px; text-align: center; vertical-align: top; border: 0px;">
+        <h3>Dynamic Mode Decomposition</h3>
+        <br>
+        <img src="https://alextsolovikos.github.io/docs/dmd_sketch.png" alt="Dynamic Mode Decomposition" width="200px">
+      </td>
+      <td style="width: 200px; height: 200px; text-align: center; vertical-align: top; border: 0px;">
+        <h3>Gaussian Processes</h3>
+        <br>
+        <img src="https://alextsolovikos.github.io/docs/gp_sketch.png" alt="Gaussian Processes" width="200px">
+      </td>
+    </tr>
+    <tr>
+      <td colspan=2 style="width: 400px; height: 300px; text-align: center; vertical-align: top; border: 0px;">
+        <h2>Transformers</h2>
+        <br>
+        <img src="https://alextsolovikos.github.io/docs/transformer_sketch.png" alt="Transformer" width="auto" width="300px">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
