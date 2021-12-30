@@ -21,24 +21,26 @@ Here are some of the topics that I am working on:
 <table style="margin-left: auto; margin-right: auto; border: 0px;">
   <tbody>
     <tr>
-      <td style="width: 200px; height: 250px; text-align: center; vertical-align: top; border: 0px solid black;">
+      <td style="width: 600px; height: 250px; text-align: center; vertical-align: top; border: 0px solid black;">
+        <h2>Flow Control</h2>
+        <br>
+        <img src="https://alextsolovikos.github.io/docs/multiple_lsms_dns_overview.png" alt="Flow Control" height="200px" width="auto">
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 300px; height: 250px; text-align: center; vertical-align: top; border: 0px solid black;">
         <h2>Data-Driven Dynamics and Control</h2>
         <br>
         <img src="https://alextsolovikos.github.io/docs/deep_gp_koopman_example.png" alt="Data-Driven Dynamics and Control" height="200px">
       </td>
-      <td style="width: 300px; height: 250px; text-align: center; vertical-align: top; border: 0px solid black;">
-        <h2>Flow Control</h2>
-        <br>
-        <img src="https://alextsolovikos.github.io/docs/multiple_lsms_dns_overview.png" alt="Flow Control" height="100px" width="auto">
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 200px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
+      <td style="width: 300px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
         <h2>Stochastic Optimal Control</h2>
         <br>
         <img src="https://alextsolovikos.github.io/docs/greedy_covariance_2d.png" alt="Stochastic Optimal Control" height="100px" width="auto">
       </td>
-      <td style="width: 300px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
+    </tr>
+    <tr>
+      <td style="width: 600px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
         <h2>Motion Prediction</h2>
         <br>
         <img src="https://alextsolovikos.github.io/docs/transformer-example-prediction.png" alt="Motion Prediction" width="auto" height="100px">
