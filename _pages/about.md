@@ -15,10 +15,7 @@ I'm always looking for challenging problems with a purpose to work on!
 
 # Research
 
-Here are some of the projects that I'm working on and the tools I am developing.
-
-## Topics
-
+Here are some of the topics that I am working on:
 
 <table style="margin-left: auto; margin-right: auto; border: 0px solid black;">
 <tbody>
@@ -42,8 +39,7 @@ Here are some of the projects that I'm working on and the tools I am developing.
 </table>
 
 
-## Tools
-
+Through my involvement in the above topics, I have been using and developing machine learning prediction models using the following tools:
 
 ### Dynamic Mode Decomposition
 > - Paper 1
