@@ -20,43 +20,6 @@ Here are some of the projects that I'm working on and the tools I am developing.
 ## Topics
 
 
-### Data-Driven Dynamics and Control
-> - Paper 1
-> - Paper 2
-> - Paper 3
-
-### Flow Control
-> - Paper 1
-> - Paper 2
-> - Paper 3
-
-### Stochastic Optimal Control
-> - Paper 1
-> - Paper 2
-> - Paper 3
-
-### Motion Prediction
-> - Paper 1
-> - Paper 2
-> - Paper 3
-
-
-## Tools
-
-
-### Dynamic Mode Decomposition
-> - Paper 1
-> - Paper 2
-> - Paper 3
-
-### Gaussian Processes
-> - Paper 1
-> - Paper 2
-
-### Transformers
-> - (Coming soon)
-
-
 <table style="width: 700px; height: 446px; margin-left: auto; margin-right: auto; border: 0px solid black;">
 <tbody>
 <tr>
@@ -77,4 +40,23 @@ Here are some of the projects that I'm working on and the tools I am developing.
 </tr>
 </tbody>
 </table>
+
+
+## Tools
+
+
+### Dynamic Mode Decomposition
+> - Paper 1
+> - Paper 2
+> - Paper 3
+
+### Gaussian Processes
+> - Paper 1
+> - Paper 2
+
+### Transformers
+> - (Coming soon)
+
+
+
 
