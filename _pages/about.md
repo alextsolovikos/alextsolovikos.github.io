@@ -73,7 +73,7 @@ Here are some of the projects that I'm working on and the tools I am developing.
 <br /><img src="https://alextsolovikos.github.io/docs/greedy_covariance_2d.png" alt="Stochastic Optimal Control" width="250"/></td>
 <td style="width: 350px; text-align: center;">
 <h3>Motion Prediction</h3>
-<br /><img src="https://alextsolovikos.github.io/dogs/transformer-example-prediction.png" alt="Motion Prediction" width="250"/></td>
+<br /><img src="https://alextsolovikos.github.io/docs/transformer-example-prediction.png" alt="Motion Prediction" width="250"/></td>
 </tr>
 </tbody>
 </table>
