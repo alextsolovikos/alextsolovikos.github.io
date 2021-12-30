@@ -65,7 +65,7 @@ Here are some of the projects that I'm working on and the tools I am developing.
 <br /><img src="https://alextsolovikos.github.io/docs/deep_gp_koopman_example.png" alt="Data-Driven Dynamics and Control" width="250"/></td>
 <td style="width: 350px; text-align: center;">
 <h3>Flow Control</h3>
-<br /><img src="https://alextsolovikos.github.io/docs/multiple_lsms_dns_overview.png" alt="Flow Control" width="250"/></td>
+<br /><img src="https://alextsolovikos.github.io/docs/multiple_lsms_dns_overview.png" alt="Flow Control" width="340"/></td>
 </tr>
 <tr>
 <td style="width: 350px; text-align: center;">
