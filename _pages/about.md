@@ -21,29 +21,29 @@ Here are some of the topics that I am working on:
 <table style="margin-left: auto; margin-right: auto; border: 0px;">
   <tbody>
     <tr>
-      <td colspan=2 style="width: 600px; height: 250px; text-align: center; vertical-align: top; border: 0px solid black;">
+      <td colspan=2 style="width: 600px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
         <h2>Flow Control</h2>
         <br>
-        <img src="https://alextsolovikos.github.io/docs/multiple_lsms_dns_overview.png" alt="Flow Control" height="200px" width="auto">
+        <img src="https://alextsolovikos.github.io/docs/multiple_lsms_dns_overview.png" alt="Flow Control" width="600px">
       </td>
     </tr>
     <tr>
-      <td style="width: 300px; height: 250px; text-align: center; vertical-align: top; border: 0px solid black;">
+      <td style="width: 300px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
         <h2>Data-Driven Dynamics and Control</h2>
         <br>
-        <img src="https://alextsolovikos.github.io/docs/deep_gp_koopman_example.png" alt="Data-Driven Dynamics and Control" height="200px">
+        <img src="https://alextsolovikos.github.io/docs/deep_gp_koopman_example.png" alt="Data-Driven Dynamics and Control" width="300px">
       </td>
       <td style="width: 300px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
         <h2>Stochastic Optimal Control</h2>
         <br>
-        <img src="https://alextsolovikos.github.io/docs/greedy_covariance_2d.png" alt="Stochastic Optimal Control" height="100px" width="auto">
+        <img src="https://alextsolovikos.github.io/docs/greedy_covariance_2d.png" alt="Stochastic Optimal Control" width="350px">
       </td>
     </tr>
     <tr>
       <td colspan=2 style="width: 600px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
         <h2>Motion Prediction</h2>
         <br>
-        <img src="https://alextsolovikos.github.io/docs/transformer-example-prediction.png" alt="Motion Prediction" width="auto" height="100px">
+        <img src="https://alextsolovikos.github.io/docs/transformer_example_prediction.png" alt="Motion Prediction" width="auto" width="500px">
       </td>
     </tr>
   </tbody>
