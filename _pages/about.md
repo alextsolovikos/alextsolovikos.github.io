@@ -21,7 +21,7 @@ Here are some of the topics that I am working on:
 <table style="margin-left: auto; margin-right: auto; border: 0px;">
   <tbody>
     <tr>
-      <td style="width: 600px; height: 250px; text-align: center; vertical-align: top; border: 0px solid black;">
+      <td colspan=2 style="width: 600px; height: 250px; text-align: center; vertical-align: top; border: 0px solid black;">
         <h2>Flow Control</h2>
         <br>
         <img src="https://alextsolovikos.github.io/docs/multiple_lsms_dns_overview.png" alt="Flow Control" height="200px" width="auto">
@@ -40,7 +40,7 @@ Here are some of the topics that I am working on:
       </td>
     </tr>
     <tr>
-      <td style="width: 600px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
+      <td colspan=2 style="width: 600px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
         <h2>Motion Prediction</h2>
         <br>
         <img src="https://alextsolovikos.github.io/docs/transformer-example-prediction.png" alt="Motion Prediction" width="auto" height="100px">
