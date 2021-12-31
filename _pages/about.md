@@ -18,7 +18,7 @@ I'm always looking for challenging problems with a purpose to work on!
 Here are some of the topics that I am working on:
 
 
-<table style="margin-left: auto; margin-right: auto; border: 0px;">
+<table style="width: 600px; margin-left: auto; margin-right: auto; border: 0px;">
   <tbody>
     <tr>
       <td colspan=2 style="width: 600px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
