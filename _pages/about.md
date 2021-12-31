@@ -24,26 +24,26 @@ Here are some of the topics that I am working on:
       <td colspan=2 style="width: 600px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
         <h2>Flow Control</h2>
         <br>
-        <img src="https://alextsolovikos.github.io/docs/multiple_lsms_dns_overview.png" alt="Flow Control" width="600px">
+        <img src="https://alextsolovikos.github.io/docs/multiple_lsms_dns_overview.png" alt="Flow Control" width="400px">
       </td>
     </tr>
     <tr>
       <td style="width: 300px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
         <h2>Data-Driven Dynamics and Control</h2>
         <br>
-        <img src="https://alextsolovikos.github.io/docs/deep_gp_koopman_example.png" alt="Data-Driven Dynamics and Control" width="300px">
+        <img src="https://alextsolovikos.github.io/docs/deep_gp_koopman_example.png" alt="Data-Driven Dynamics and Control" width="200px">
       </td>
       <td style="width: 300px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
         <h2>Stochastic Optimal Control</h2>
         <br>
-        <img src="https://alextsolovikos.github.io/docs/greedy_covariance_2d.png" alt="Stochastic Optimal Control" width="350px">
+        <img src="https://alextsolovikos.github.io/docs/greedy_covariance_2d.png" alt="Stochastic Optimal Control" width="250px">
       </td>
     </tr>
     <tr>
       <td colspan=2 style="width: 600px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
         <h2>Motion Prediction</h2>
         <br>
-        <img src="https://alextsolovikos.github.io/docs/transformer_example_prediction.png" alt="Motion Prediction" width="500px">
+        <img src="https://alextsolovikos.github.io/docs/transformer_example_prediction.png" alt="Motion Prediction" width="400px">
       </td>
     </tr>
   </tbody>
