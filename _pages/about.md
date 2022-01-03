@@ -22,28 +22,28 @@ Here are some of the topics that I am working on:
   <tbody>
     <tr>
       <td colspan=2 style="width: 600px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
-        <h2>Flow Control</h2>
+        <a href="/flow-control/"><h2>Flow Control</h2></a>
         <br>
-        <img src="https://alextsolovikos.github.io/docs/multiple_lsms_dns_overview.png" alt="Flow Control" width="400px">
+        <a href="/flow-control/"><img src="https://alextsolovikos.github.io/docs/multiple_lsms_dns_overview.png" alt="Flow Control" width="400px"></a>
       </td>
     </tr>
     <tr>
       <td style="width: 300px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
         <h2>Data-Driven Dynamics and Control</h2>
         <br>
-        <img src="https://alextsolovikos.github.io/docs/deep_gp_koopman_example.png" alt="Data-Driven Dynamics and Control" width="200px">
+        <a href="/data-driven-dynamics/"><img src="https://alextsolovikos.github.io/docs/deep_gp_koopman_example.png" alt="Data-Driven Dynamics and Control" width="200px"></a>
       </td>
       <td style="width: 300px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
         <h2>Stochastic Optimal Control</h2>
         <br>
-        <img src="https://alextsolovikos.github.io/docs/greedy_covariance_2d.png" alt="Stochastic Optimal Control" width="250px">
+        <a href="/stochastic-optimal-control/"><img src="https://alextsolovikos.github.io/docs/greedy_covariance_2d.png" alt="Stochastic Optimal Control" width="250px"></a>
       </td>
     </tr>
     <tr>
       <td colspan=2 style="width: 600px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
         <h2>Motion Prediction</h2>
         <br>
-        <img src="https://alextsolovikos.github.io/docs/transformer_example_prediction.png" alt="Motion Prediction" width="400px">
+        <a href="/motion-prediction/"><img src="https://alextsolovikos.github.io/docs/transformer_example_prediction.png" alt="Motion Prediction" width="400px"></a>
       </td>
     </tr>
   </tbody>
@@ -59,17 +59,17 @@ Through my involvement in the above topics, I have been using and developing mac
       <td style="width: 200px; height: 300px; text-align: center; vertical-align: top; border: 0px;">
         <h3>Dynamic Mode Decomposition</h3>
         <br>
-        <img src="https://alextsolovikos.github.io/docs/dmd_sketch.png" alt="Dynamic Mode Decomposition" width="200px">
+        <a href="/dynamic-mode-decomposition/"><img src="https://alextsolovikos.github.io/docs/dmd_sketch.png" alt="Dynamic Mode Decomposition" width="200px"></a>
       </td>
       <td style="width: 200px; height: 300px; text-align: center; vertical-align: top; border: 0px;">
         <h3>Gaussian Processes</h3>
         <br>
-        <img src="https://alextsolovikos.github.io/docs/gp_sketch.png" alt="Gaussian Processes" width="200px">
+        <a href="/gaussian-processes/"><img src="https://alextsolovikos.github.io/docs/gp_sketch.png" alt="Gaussian Processes" width="200px"></a>
       </td>
       <td style="width: 200px; height: 300px; text-align: center; vertical-align: top; border: 0px;">
         <h3>Transformers</h3>
         <br>
-        <img src="https://alextsolovikos.github.io/docs/transformer_sketch.png" alt="Transformer" width="200px">
+        <a href="/transformers/"><img src="https://alextsolovikos.github.io/docs/transformer_sketch.png" alt="Transformer" width="200px"></a>
       </td>
     </tr>
   </tbody>
