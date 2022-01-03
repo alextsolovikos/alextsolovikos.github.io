@@ -22,7 +22,7 @@ Here are some of the topics that I am working on:
   <tbody>
     <tr>
       <td colspan=2 style="width: 600px; height: 250px; text-align: center; vertical-align: top; border: 0px;">
-        <a href="/flow-control/"><h2>Flow Control</h2></a>
+        <h2>Flow Control</h2>
         <br>
         <a href="/flow-control/"><img src="https://alextsolovikos.github.io/docs/multiple_lsms_dns_overview.png" alt="Flow Control" width="400px"></a>
       </td>
