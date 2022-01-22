@@ -5,7 +5,7 @@ categories: Research
 ---
 
 <p align="center">
-  <img style="max-width: 60%;
+  <img style="max-width: 10%;
   height: auto" src="/docs/dmdcsp_flat_plate_wake.gif" />
 </p>
 
