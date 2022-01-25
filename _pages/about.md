@@ -77,7 +77,16 @@ Through my involvement in the above topics, I have been using and developing mac
 
 # Publications
 
-{% for post in site.posts %}   
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p><small><strong>{{ post.date | date: "%B %e, %Y" }}</strong> . {{ post.category }} . <a href="http://myname.github.com{{ post.url }}#disqus_thread"></a></small></p>            
-{% endfor %}
+Here is a list of my most recent publications and talks:
+
+- [Multiple Model Dynamic Mode Decomposition for Flowfield and Model Parameter Estimation, AIAA SciTech 2022](/publications/2022-01-07-Multiple-Model-DMD-Estimation/)
+- [Control of Large-Scale Motions in Boundary Layers, APS DFD 2021](/publications/2021-11-19-control-of-lsms/)
+- [Cautious Nonlinear Covariance Steering using Variational Gaussian Process Predictive Models, MECC 2021](/publications/2021-10-25-cautious-covariance-steering/)
+- [Distributed Covariance Steering with Consensus ADMM for Stochastic Multi-Agent Systems, RSS 2021](/publications/2021-07-13-Distributed-Covariance-Steering/)
+- [Model Predictive Control of Material Volumes with Application to Vortical Structures, AIAA Journal 2021](/publications/2021-07-07-MPC-of-LSMs/)
+- [Estimation and Control of Fluid Flows Using Sparsity-Promoting Dynamic Mode Decomposition, IEEE L-CSS](/publications/2020-08-10-sparsity-promoting-dmd-with-control/)
+- [Greedy Finite-Horizon Covariance Steering for Discrete-Time Stochastic Nonlinear Systems Based on the Unscented Transform, ACC 2020](/publications/2020-07-01-greedy-nonlinear-covariance-steering/)
+- [Toward Model-Based Control of Near-Wall Turbulent Coherent Structures, AIAA SciTech 2020](/publications/2020-01-05-Toward-Model-Based-Control-of-LSMs/)
+
+
+
