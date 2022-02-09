@@ -25,7 +25,7 @@ Here are some of the topics that I am working on:
         <h2>Flow Control</h2>
         <br>
 <!---        <a href="/flow-control/"><img src="https://alextsolovikos.github.io/docs/multiple_lsms_dns_overview.png" alt="Flow Control" width="400px"></a>--->
-        <a href="/flow-control/"><img src="https://alextsolovikos.github.io/docs/gif_tbl_small_animation_full_top_vew.gif" alt="Flow Control" width="400px"></a>
+        <a href="/flow-control/"><img src="https://alextsolovikos.github.io/docs/gif_tbl_small_animation_full_top_vew.gif" alt="Flow Control" width="600px"></a>
       </td>
     </tr>
     <tr>
