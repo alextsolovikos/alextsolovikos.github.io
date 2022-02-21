@@ -13,7 +13,7 @@ Mechanical Engineer (BS/MS with highest honors, NTUA) and Aerospace Engineering 
 I'm always looking for challenging problems with a purpose to work on!
 
 
-# Research on Prediction and Control of High-Dimensional Systems
+# Prediction and Control of High-Dimensional Systems
 
 Here are some of the research topics that I am working on:
 
