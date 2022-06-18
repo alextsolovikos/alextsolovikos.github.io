@@ -15,6 +15,8 @@ redirect_from:
 
 **MS/PhD, Aerospace Engineering**, The University of Texas at Austin <p align="right"> May 2023 </p>
 
+<span align="right">Right aligned</span><span align="left">Left aligned</span>
+
 -   Master's and Doctoral student in the Department of Aerospace
     Engineering and Engineering Mechanics.
 -   GPA: **4.00/4.00**
