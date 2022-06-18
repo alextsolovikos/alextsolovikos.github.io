@@ -9,31 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-<center> **Alexandros Alex Tsolovikos** </center>
-::: small
-::: small
-`tsolovikos@utexas.edu`
-:::
+**Alexandros Alex Tsolovikos**
 
-$\bullet$ $+1 ~ (737)~210{-}9243$ $\bullet$
-
-::: small
-`linkedin.com/in/alextsolovikos`
-:::
-
-$\bullet$
-
-::: small
-`github.com/alextsolovikos`
-:::
-:::
-:::
-
-::: flushleft
 **Education**
-
 ------------------------------------------------------------------------
-:::
 
 **MS/PhD, Aerospace Engineering**, The University of Texas at Austin
 
