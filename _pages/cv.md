@@ -15,16 +15,16 @@ redirect_from:
 
 **MS/PhD, Aerospace Engineering**, The University of Texas at Austin <p align="right"> May 2023 </p>
 
-<p style="text-align:left;">
-    This text is left aligned
-    <span style="float:right;">
-        This text is right aligned
-    </span>
-</p>
-
-
-This is the same sentence's first part [this is the end of sentence.]{style="float:right"}
-
+<p><strong>PDF document</strong><br />
+Use <code>LaTeX</code> <code>\hfill</code> command:</p>
+<p>This is the same sentence’s first part this is the end of sentence.</p>
+<p><strong>HTML document</strong><br />
+Use <code>CSS</code> <code>float</code> property.<br />
+Since Pandoc 1.18, you can create a native <code>span</code> with <a href="https://pandoc.org/MANUAL.html#extension-bracketed_spans"><code>bracketed_spans</code></a></p>
+<p>This is the same sentence’s first part <span style="float:right;">this is the end of sentence.</span></p>
+<p><strong>Both PDF &amp; HTML?</strong><br />
+You can use both <code>LaTeX</code> <code>\hfill</code> and a <code>HTML</code> floating span (be careful, use a no-break-space between <code>\hfill</code> and <code>[this</code>):</p>
+<p>This is the same sentence’s first part  <span style="float:right;">this is the end of sentence.</span></p>
 
 
 -   Master's and Doctoral student in the Department of Aerospace
