@@ -52,10 +52,10 @@ Through my involvement in the above topics, I have been using and developing mac
       </td>
     </tr>
     <tr>
-      <td style="width: 300px; height: 200px; text-align: center; vertical-align: top; border: 0px;">
+      <td style="width: 300px; text-align: center; vertical-align: top; border: 0px;">
         <a><img src="https://alextsolovikos.github.io/docs/greedy_covariance_2d.png" alt="Stochastic Optimal Control" width="250px"></a>
       </td>
-      <td style="width: 300px; height: 200px; text-align: center; vertical-align: top; border: 0px;">
+      <td style="width: 300px; text-align: center; vertical-align: top; border: 0px;">
         <a><img src="https://alextsolovikos.github.io/docs/transformer_example_prediction.png" alt="Trajector Prediction" width="400px"></a>
       </td>
     </tr>
