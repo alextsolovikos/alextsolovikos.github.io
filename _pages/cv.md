@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Alexandros Alex Tsolovikos**
+# Alex Tsolovikos
 
 **Education**
 ------------------------------------------------------------------------
@@ -46,11 +46,9 @@ Athens
     Parameterization -- Applications in the Adjoint-Based Aerodynamic
     Shape Optimization"*
 
-::: flushleft
-**Work Experience**
 
+**Work Experience**
 ------------------------------------------------------------------------
-:::
 
 **Radar Machine Learning Intern**, Aptiv, Agoura Hills, CA
 
@@ -86,11 +84,9 @@ Athens
     vision, HD maps, GNSS, and odometry information, along with
     necessary data pipelines and visualization tools in Python.
 
-::: flushleft
-**Research Experience**
 
+**Research Experience**
 ------------------------------------------------------------------------
-:::
 
 **Graduate Researcher**, The University of Texas at Austin
 
@@ -142,24 +138,18 @@ Athens
     OpenFOAM environment for use in automatic mesh generation and for
     improving the accuracy of computing functionals of interest.
 
-::: flushleft
 **Skills**
-
 ------------------------------------------------------------------------
-:::
 
-  ---------------------- -----------------------------------------------------------------------------------------
-  **Programming:**       Proficient in C/C++, Python, Matlab, Fortran 95, Unix
-  **Libraries/Tools:**   PyTorch, ROS, GPyTorch, GTSAM, Numpy, Eigen (C++), Git, OpenCV, CGAL, OpenFOAM, Arduino
-  **Other Tools:**       LaTeX, MS Office (ECDL Expert), Solidworks, ANSYS, LS-DYNA, EASY
-  **Languages:**         English (fluent), Italian (basic), Greek (native)
-  ---------------------- -----------------------------------------------------------------------------------------
+| :---        |    :----   |
+|  **Programming:**      | Proficient in C/C++, Python, Matlab, Fortran 95, Unix |
+|  **Libraries/Tools:**  | PyTorch, ROS, GPyTorch, GTSAM, Numpy, Eigen (C++), Git, OpenCV, CGAL, OpenFOAM, Arduino |
+|  **Other Tools:**      | LaTeX, MS Office (ECDL Expert), Solidworks, ANSYS, LS-DYNA, EASY |
+|  **Languages:**        | English (fluent), Italian (basic), Greek (native) |
 
-::: flushleft
+
 **Publications**
-
 ------------------------------------------------------------------------
-:::
 
 **Journal Articles**
 
@@ -203,11 +193,9 @@ Athens
     (2020), "Toward model-based control of near-wall turbulent coherent
     structures", *AIAA SciTech 2020*, Orlando, FL, January 6-10, 2020.
 
-::: flushleft
-**Teaching Experience**
 
+**Teaching Experience**
 ------------------------------------------------------------------------
-:::
 
 **Teaching Assistant**, The University of Texas at Austin
 
@@ -223,11 +211,8 @@ Athens
 -   Assisted in the *Applied Aerodynamics* course by grading homework
     and holding office hours (Fall 2018).
 
-::: flushleft
 **Awards and Fellowships**
-
 ------------------------------------------------------------------------
-:::
 
 -   *"Graduate Dean's Prestigious Fellowship Supplement" Fellow
     (September 2020)*
