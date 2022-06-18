@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-::: center
-**Alexandros "Alex" Tsolovikos**\
-
+<center> **Alexandros Alex Tsolovikos** </center>
 ::: small
 ::: small
 `tsolovikos@utexas.edu`
