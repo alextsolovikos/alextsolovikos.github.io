@@ -114,7 +114,7 @@ Athens
 
 **Skills**
 ------------------------------------------------------------------------
-| <!-- -->               | <!-- -->   |
+| &nbsp; | &nbsp; |
 | :---                   |    :----   |
 |  **Programming:**      | Proficient in C/C++, Python, Matlab, Fortran 95, Unix |
 |  **Libraries/Tools:**  | PyTorch, ROS, GPyTorch, GTSAM, Numpy, Eigen (C++), Git, OpenCV, CGAL, OpenFOAM, Arduino |
