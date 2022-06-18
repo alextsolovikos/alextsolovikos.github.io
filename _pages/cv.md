@@ -22,6 +22,11 @@ redirect_from:
     </span>
 </p>
 
+
+This is the same sentence's first part [this is the end of sentence.]{style="float:right"}
+
+
+
 -   Master's and Doctoral student in the Department of Aerospace
     Engineering and Engineering Mechanics.
 -   GPA: **4.00/4.00**
