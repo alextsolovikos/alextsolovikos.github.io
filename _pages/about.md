@@ -46,7 +46,7 @@ Through my involvement in the above topics, I have been using and developing mac
 <table style="width: 600px; margin-left: auto; margin-right: auto; border: 0px;">
   <tbody>
     <tr>
-      <td colspan=2 style="width: 600px; height: 200px; text-align: center; vertical-align: top; border: 0px;">
+      <td colspan=2 style="width: 600px; height: 110px; text-align: center; vertical-align: top; border: 0px;">
         <a><img src="https://alextsolovikos.github.io/docs/gif_tbl_small_animation_top_vew.gif" alt="Flow Control" width="600px"></a>
       </td>
     </tr>
@@ -61,6 +61,7 @@ Through my involvement in the above topics, I have been using and developing mac
   </tbody>
 </table>
 
+***
 -->
 
 <table style="width: 600px; margin-left: auto; margin-right: auto; border: 0px;">
