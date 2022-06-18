@@ -26,7 +26,6 @@ My research is mainly focused on **prediction and control of high-dimensional sy
       <td colspan=2 style="width: 600px; height: 200px; text-align: center; vertical-align: top; border: 0px;">
         <h2>Turbulent Flow Control</h2>
         <br>
-<!---        <a href="/flow-control/"><img src="https://alextsolovikos.github.io/docs/multiple_lsms_dns_overview.png" alt="Flow Control" width="400px"></a>--->
         <a href="/flow-control/"><img src="https://alextsolovikos.github.io/docs/gif_tbl_small_animation_top_vew.gif" alt="Flow Control" width="600px"></a>
       </td>
     </tr>
