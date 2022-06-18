@@ -17,6 +17,9 @@ redirect_from:
 
 <span align="right">Right aligned</span><span align="left">Left aligned</span>
 
+<p style="text-align: left; width:49%; display: inline-block;">LEFT</p>
+<p style="text-align: right; width:50%;  display: inline-block;">RIGHT</p>
+
 -   Master's and Doctoral student in the Department of Aerospace
     Engineering and Engineering Mechanics.
 -   GPA: **4.00/4.00**
