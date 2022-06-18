@@ -43,7 +43,7 @@ redirect_from:
 ------------------------------------------------------------------------
 ***
 
-<p><strong>Radar Machine Learning Intern</strong>, Aptiv, Agoura Hills, CA <span style="float:right;">[May 2022 -- August 2022]</span></p>
+<p><strong>Radar Machine Learning Intern</strong>, Aptiv, Agoura Hills, CA <span style="float:right;">[May 2022 - August 2022]</span></p>
 
 -   Deep learning-based radar-only object detection.
 -   Trained and compared performance of different backbones and
@@ -52,7 +52,7 @@ redirect_from:
 -   Extended MMDetection & MMRotate libraries to work with low-level
     radar inputs.
 
-<p><strong>Environment Perception Engineering Intern</strong>, Aptiv, Remote <span style="float:right;">[June 2021 -- August 2021]</span></p>
+<p><strong>Environment Perception Engineering Intern</strong>, Aptiv, Remote <span style="float:right;">[June 2021 - August 2021]</span></p>
 
 -   Remote internship supporting the Advanced Engineering/Road Model
     team in Agoura Hills, CA.
@@ -63,7 +63,7 @@ redirect_from:
     same area in the SLAM framework.
 -   Developed ROS pipeline in Python and C++.
 
-<p><strong>Environment Perception Engineering Intern</strong>, Aptiv, Remote <span style="float:right;">[June 2020 -- July 2020]</span></p>
+<p><strong>Environment Perception Engineering Intern</strong>, Aptiv, Remote <span style="float:right;">[June 2020 - July 2020]</span></p>
 
 -   Remote internship supporting the Advanced Engineering/Road Model
     team in Agoura Hills, CA.
@@ -76,7 +76,7 @@ redirect_from:
 ------------------------------------------------------------------------
 ***
 
-<p><strong>Graduate Researcher</strong>, The University of Texas at Austin <span style="float:right;">[August 2018 -- Present]</span></p>
+<p><strong>Graduate Researcher</strong>, The University of Texas at Austin <span style="float:right;">[August 2018 - Present]</span></p>
 
 -   Research interests:
     -   Data-driven control of high-dimensional, nonlinear dynamical
@@ -95,7 +95,7 @@ redirect_from:
 
 **Undergraduate/Associate Researcher**, National Technical University of
 Athens
-<p><strong>Undergraduate/Associate Researcher</strong>, National Technical University of Athens <span style="float:right;">[May 2017 -- July 2018]</span></p>
+<p><strong>Undergraduate/Associate Researcher</strong>, National Technical University of Athens <span style="float:right;">[May 2017 - July 2018]</span></p>
 
 -   Group: *Parallel CFD and Optimization Unit*
 -   Research interests:
