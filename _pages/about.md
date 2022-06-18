@@ -16,6 +16,7 @@ I'm always looking for challenging problems with a purpose to work on!
 
 
 # Research
+***
 
 My research is mainly focused on **prediction and control of high-dimensional systems**. Here are some of the research topics that I am working on:
 
@@ -61,7 +62,7 @@ Through my involvement in the above topics, I have been using and developing mac
   </tbody>
 </table>
 
-***
+
 -->
 
 <table style="width: 600px; margin-left: auto; margin-right: auto; border: 0px;">
@@ -142,6 +143,7 @@ Through my involvement in the above topics, I have been using and developing mac
 -->
 
 # Publications
+***
 
 Here is a list of my most recent publications and talks:
 
