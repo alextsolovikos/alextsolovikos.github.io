@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "Curriculum Vitae"
-    url: /docs/Curriculum_Vitae.pdf
+    url: /cv.md
 
 #  - title: "Google Scholar"
 #    url: https://scholar.google.com/citations?user=r7HwoxEAAAAJ
