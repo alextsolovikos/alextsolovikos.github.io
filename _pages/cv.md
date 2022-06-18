@@ -124,12 +124,11 @@ Athens
 |  **Languages:**        | English (fluent), Italian (basic), Greek (native) |
 |  |   |
 -->
-<pre>
-- **Programming:**      Proficient in C/C++, Python, Matlab, Fortran 95, Unix
-- **Libraries/Tools:**  PyTorch, ROS, GPyTorch, GTSAM, Numpy, Eigen (C++), Git, OpenCV, CGAL, OpenFOAM, Arduino
-- **Other Tools:**      LaTeX, MS Office (ECDL Expert), Solidworks, ANSYS, LS-DYNA, EASY
-- **Languages:**        English (fluent), Italian (basic), Greek (native)
-</pre>
+
+- **Programming:**<pre>      </pre>Proficient in C/C++, Python, Matlab, Fortran 95, Unix
+- **Libraries/Tools:**<pre>  </pre>PyTorch, ROS, GPyTorch, GTSAM, Numpy, Eigen (C++), Git, OpenCV, CGAL, OpenFOAM, Arduino
+- **Other Tools:**<pre>      </pre>LaTeX, MS Office (ECDL Expert), Solidworks, ANSYS, LS-DYNA, EASY
+- **Languages:**<pre>        </pre>English (fluent), Italian (basic), Greek (native)
 
 **Publications**
 ------------------------------------------------------------------------
