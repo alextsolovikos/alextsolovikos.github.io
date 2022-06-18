@@ -213,3 +213,6 @@ Athens
     mathematics courses (September 2015)
 -   *"A Great Moment for Education"* award for the highest score in
     University Entrance Examinations, Eurobank (2013)
+    
+    
+*Last update: June 18, 2022*
