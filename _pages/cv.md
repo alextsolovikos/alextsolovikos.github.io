@@ -93,8 +93,6 @@ redirect_from:
     -   Computational engineering and high-performance computing with an
         emphasis on direct numerical simulations of turbulent flows.
 
-**Undergraduate/Associate Researcher**, National Technical University of
-Athens
 <p><strong>Undergraduate/Associate Researcher</strong>, National Technical University of Athens <span style="float:right;">[May 2017 - July 2018]</span></p>
 
 -   Group: *Parallel CFD and Optimization Unit*
