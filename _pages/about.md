@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Mechanical Engineer (BS/MS with highest honors, NTUA) and Aerospace Engineering Ph.D. candidate at The University of Texas at Austin with a wide programming and mathematical background in computational engineering, optimization, controls, fluid dynamics, and machine learning. Currently, I leverage machine learning models to control infinite-dimensional, nonlinear systems described by partial differential equations, such as turbulent flows: a mathematically and practically challenging topic. I have also worked extensively on environment perception and estimation problems in the industry for automotive applications, such as Radar mapping and fusing computer vision with HD maps.
+Aerospace Engineering PhD candidate at the University of Texas at Austin and Mechanical Engineering graduate (BS/MS with highest honors) from the National Technical University of Athens with a wide mathematical and programming background in control theory, computational engineering, and machine learning. I am currently working on ML for model reduction and control of high-dimensional, nonlinear systems, with an emphasis on turbulent flows. 
+
+Some of the topics that I have worked on include stochastic optimal control, high-performance computing, deep learning models for trajectory prediction, reinforcement learning, fluid dynamics, adjoint-based aerodynamic shape optimization, and computational geometry. I have also worked extensively on environment perception and estimation problems in the industry for automotive applications, such as Radar-based localization and mapping, computer vision/HD map fusion, and deep learning for radar-only object detection. My coding skills include an advanced grasp of object-oriented languages, such as C++ and Python, as well as Fortran, and Matlab. I am also comfortable with parallel computing on high-performance computing clusters.
 
 I'm always looking for challenging problems with a purpose to work on!
 
@@ -17,6 +19,18 @@ I'm always looking for challenging problems with a purpose to work on!
 
 My research is mainly focused on **prediction and control of high-dimensional systems**. Here are some of the research topics that I am working on:
 
+- Reduced-Order Modeling
+- Data-Driven Control
+- Turbulent Flow Control
+- Stochastic Optimal Control
+- Deep Learning for Trajectory Prediction
+- High-Performance Computing
+
+Through my involvement in the above topics, I have been using and developing machine learning prediction models using the following tools:
+
+- Dynamic Mode Decomposition
+- Gaussian Processes
+- Transformers
 
 <!--
 
