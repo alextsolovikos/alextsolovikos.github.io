@@ -32,6 +32,12 @@ Through my involvement in the above topics, I have been using and developing mac
 - Gaussian Processes
 - Transformers
 
+<p float="left">
+  <img src="https://alextsolovikos.github.io/docs/gif_tbl_small_animation_top_vew.gif" alt="Flow Control" width="30%" />
+  <img src="https://alextsolovikos.github.io/docs/greedy_covariance_2d.png" alt="Stochastic Optimal Control" width="30%" />
+  <img src="https://alextsolovikos.github.io/docs/transformer_example_prediction.png" alt="Motion Prediction" width="30%" /> 
+</p>
+
 <!--
 
 <table style="width: 600px; margin-left: auto; margin-right: auto; border: 0px;">
