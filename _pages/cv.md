@@ -15,10 +15,12 @@ redirect_from:
 
 **MS/PhD, Aerospace Engineering**, The University of Texas at Austin <p align="right"> May 2023 </p>
 
-<span align="right">Right aligned</span><span align="left">Left aligned</span>
-
-<p style="text-align: left; width:49%; display: inline-block;">LEFT</p>
-<p style="text-align: right; width:50%;  display: inline-block;">RIGHT</p>
+<p style="text-align:left;">
+    This text is left aligned
+    <span style="float:right;">
+        This text is right aligned
+    </span>
+</p>
 
 -   Master's and Doctoral student in the Department of Aerospace
     Engineering and Engineering Mechanics.
