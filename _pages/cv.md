@@ -11,6 +11,7 @@ redirect_from:
 
 **Education**
 ------------------------------------------------------------------------
+***
 
 **MS/PhD, Aerospace Engineering**, The University of Texas at Austin
 
@@ -41,6 +42,7 @@ Athens
 
 **Work Experience**
 ------------------------------------------------------------------------
+***
 
 **Radar Machine Learning Intern**, Aptiv, Agoura Hills, CA
 
@@ -73,6 +75,7 @@ Athens
 
 **Research Experience**
 ------------------------------------------------------------------------
+***
 
 **Graduate Researcher**, The University of Texas at Austin
 
@@ -112,6 +115,7 @@ Athens
 
 **Skills**
 ------------------------------------------------------------------------
+***
 
 <!--
 |  |   |
@@ -130,6 +134,7 @@ Athens
 
 **Publications**
 ------------------------------------------------------------------------
+***
 
 **Journal Articles**
 
@@ -170,6 +175,7 @@ Athens
 
 **Teaching Experience**
 ------------------------------------------------------------------------
+***
 
 **Teaching Assistant**, The University of Texas at Austin
 
@@ -184,6 +190,7 @@ Athens
 
 **Awards and Fellowships**
 ------------------------------------------------------------------------
+***
 
 -   *"Graduate Dean's Prestigious Fellowship Supplement" Fellow
     (September 2020)*
