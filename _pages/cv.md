@@ -13,7 +13,7 @@ redirect_from:
 ------------------------------------------------------------------------
 ***
 
-**MS/PhD, Aerospace Engineering**, The University of Texas at Austin
+**MS/PhD, Aerospace Engineering**, The University of Texas at Austin <p align="center"> May 2023 </p>
 
 -   Master's and Doctoral student in the Department of Aerospace
     Engineering and Engineering Mechanics.
