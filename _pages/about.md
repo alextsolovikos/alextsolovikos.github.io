@@ -19,11 +19,13 @@ I'm always looking for challenging problems with a purpose to work on!
 My research is mainly focused on **prediction and control of high-dimensional systems**. Here are some of the research topics that I am working on:
 
 - Reduced-order modeling
-- Data-driven control of high-dimensional systems using tools such as dynamic mode decomposition and gaussian processes
+- Data-driven control
 - Turbulent flow control
 - Stochastic optimal control
 - Deep learning for trajectory prediction using transformers
-- High-performance computing
+- Dynamic Mode Decomposition
+- Gaussian Processes
+- - High-performance computing
 
 <table style="width: 600px; margin-left: auto; margin-right: auto; border: 0px;">
   <tbody>
