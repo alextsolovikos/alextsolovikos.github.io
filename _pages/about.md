@@ -25,7 +25,7 @@ My research is mainly focused on **prediction and control of high-dimensional sy
 - Deep learning for trajectory prediction using transformers
 - Dynamic Mode Decomposition
 - Gaussian Processes
-- - High-performance computing
+- High-performance computing
 
 <table style="width: 600px; margin-left: auto; margin-right: auto; border: 0px;">
   <tbody>
