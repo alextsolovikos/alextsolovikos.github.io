@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Aerospace Engineering PhD candidate at the University of Texas at Austin and Mechanical Engineering graduate (BS/MS with highest honors) from the National Technical University of Athens with a wide mathematical and programming background in control theory, computational engineering, and machine learning. I am currently working on ML for model reduction and control of high-dimensional, nonlinear systems, with an emphasis on turbulent flows.
+
+Some of the topics that I have worked on include stochastic optimal control, high-performance computing, deep learning models for trajectory prediction, reinforcement learning, fluid dynamics, adjoint-based aerodynamic shape optimization, and computational geometry. I have also worked extensively on environment perception and estimation problems in the industry for automotive applications, such as Radar-based localization and mapping, computer vision/HD map fusion, and deep learning for radar-only object detection. My coding skills include an advanced grasp of object-oriented languages, such as C++ and Python, as well as Fortran, and Matlab. I am also comfortable with parallel computing on high-performance computing clusters.
+
 **Education**
 ------------------------------------------------------------------------
 ***
