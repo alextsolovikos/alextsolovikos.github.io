@@ -23,8 +23,8 @@ My research is mainly focused on **prediction and control of high-dimensional sy
 - Turbulent flow control
 - Stochastic optimal control
 - Deep learning for trajectory prediction using transformers
-- Dynamic Mode Decomposition
-- Gaussian Processes
+- Dynamic mode decomposition
+- Gaussian processes
 - High-performance computing
 
 <table style="width: 600px; margin-left: auto; margin-right: auto; border: 0px;">
