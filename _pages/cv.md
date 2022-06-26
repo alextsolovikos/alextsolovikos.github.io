@@ -194,8 +194,9 @@ Some of the topics that I have worked on include stochastic optimal control, hig
 ------------------------------------------------------------------------
 ***
 
+-  *"Best ASE/EM Graduate Peer Mentor"* award (Spring 2022).
 -   *"Graduate Dean's Prestigious Fellowship Supplement" Fellow
-    (September 2020)*
+   * (September 2020)
 -   ***"A. Onassis Foundation Scholarship"* for Ph.D. studies in
     Aerospace Engineering (September 2020 - May 2023, valued at over
     \$40,000)**
