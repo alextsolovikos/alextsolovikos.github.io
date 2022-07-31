@@ -16,7 +16,7 @@ I'm always looking for challenging problems with a purpose to work on!
 # Research
 ***
 
-My research is mainly focused on **prediction and control of high-dimensional systems**. Here are some of the research topics that I am working on:
+My research is mainly focused on **prediction and control of high-dimensional systems**, such as turbulent flows. Here are some of the research topics that I am working on:
 
 - Reduced-order modeling
 - Data-driven control
