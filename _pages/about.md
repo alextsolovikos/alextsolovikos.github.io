@@ -8,10 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+<!--
 Aerospace Engineering PhD candidate at the University of Texas at Austin and Mechanical Engineering graduate (BS/MS with highest honors) from the National Technical University of Athens with a wide mathematical and programming background in control theory, computational engineering, and machine learning. I am currently working on ML for model reduction and control of high-dimensional, nonlinear systems, with an emphasis on turbulent flows. 
 
 I'm always looking for challenging problems with a purpose to work on!
+-->
 
+Aerospace Engineering PhD candidate at the University of Texas at Austin and Mechanical Engineering graduate (BS/MS with highest honors) from the National Technical University of Athens with a wide engineering background and applied software skills in control theory, computational engineering, and machine learning. PhD research in ML for model reduction and control of high-dimensional, nonlinear systems, with an emphasis on turbulent flows. 
+
+Experienced in: environment perception for automotive applications; simultaneous localization and mapping; vision and radar object detection; HD maps; high-performance computing; working with large codebases in C++, Python, and Fortran; transformers for trajectory prediction; stochastic optimal control; and reinforcement learning.
+
+I'm always looking for impactful and challenging problems to work on!
 
 # Research
 ***
@@ -22,7 +29,7 @@ My research is mainly focused on **prediction and control of high-dimensional sy
 - Data-driven control
 - Turbulent flow control
 - Stochastic optimal control
-- Deep learning for trajectory prediction using transformers
+- Transformers for trajectory prediction
 - Dynamic mode decomposition
 - Gaussian processes
 - High-performance computing
