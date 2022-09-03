@@ -49,12 +49,9 @@ Some of the topics that I have worked on include stochastic optimal control, hig
 
 <p><strong>Radar Machine Learning Intern</strong>, Aptiv, Agoura Hills, CA <span style="float:right;">[May 2022 - August 2022]</span></p>
 
--   Deep learning-based radar-only object detection.
--   Trained and compared performance of different backbones and
-    detection heads with raw radar data as inputs and oriented bounding
-    boxes as outputs.
--   Extended MMDetection & MMRotate libraries to work with low-level
-    radar inputs.
+-   Deep learning for object detection using low-level radar data.
+-   Trained and compared the performance of object detection models with different backbones, detection heads, and loss functions, leading to improved detection precision over the previously-used models.
+-   Created MMRadar: an extension of MMDetection & MMRotate libraries for radar-only object detection.
 
 <p><strong>Environment Perception Engineering Intern</strong>, Aptiv, Remote <span style="float:right;">[June 2021 - August 2021]</span></p>
 
@@ -82,20 +79,15 @@ Some of the topics that I have worked on include stochastic optimal control, hig
 
 <p><strong>Graduate Researcher</strong>, The University of Texas at Austin <span style="float:right;">[August 2018 - Present]</span></p>
 
--   Research interests:
-    -   Data-driven control of high-dimensional, nonlinear dynamical
-        systems.
-    -   Reduced-order modeling of turbulent flows using modal analysis
-        and non-parametric methods.
-    -   Turbulent flow control via model predictive control (MPC) and
-        reduced-order models.
-    -   Stochastic optimal control with learned non-parametric models
-        (Gaussian processes).
-    -   Reinforcement-learning for flow control.
-    -   Motion prediction in autonomous driving settings using
-        Transformers and Gaussian processes.
-    -   Computational engineering and high-performance computing with an
-        emphasis on direct numerical simulations of turbulent flows.
+-   Currently developing **reinforcement learning algorithms for control of high-dimensional systems**, with an emphasis on turbulent flows.
+-   Developed a transformer model with a dynamics-aware Gaussian process head for **trajectory prediction**.
+-   Developed **large-scale numerical simulations** of turbulent boundary layers.
+-   Designed **model-predictive control algorithms and reduced-order models** for control of coherent structures in turbulent flows.
+-   Developed sparse dynamic mode decomposition for control and estimation of high-dimensional systems.
+-   Developed a multiple-model dynamic mode decomposition framework for flowfield and parameter estimation.
+-   Developed algorithms for **stochastic optimal control** of nonlinear systems using Gaussian processes.
+-   Contributed to the development of **distributed covariance steering** algorithms.
+-   Contributed to two National Science Foundation grants worth a total of nearly $1M.
 
 <p><strong>Undergraduate/Associate Researcher</strong>, National Technical University of Athens <span style="float:right;">[May 2017 - July 2018]</span></p>
 
@@ -123,15 +115,15 @@ Some of the topics that I have worked on include stochastic optimal control, hig
 |  |   |
 | :---                   |    :----   |
 |  **Programming:**      | Proficient in C/C++, Python, Matlab, Fortran 95, Unix |
-|  **Libraries/Tools:**  | PyTorch, ROS, GPyTorch, GTSAM, Numpy, Eigen (C++), Git, OpenCV, CGAL, OpenFOAM, Arduino |
-|  **Other Tools:**      | LaTeX, MS Office (ECDL Expert), Solidworks, ANSYS, LS-DYNA, EASY |
+|  **Libraries/Tools:**  | PyTorch, JAX, ROS, GPyTorch, GTSAM, Numpy, Eigen (C++), SLURM, Docker, Git, OpenCV, CGAL |
+|  **Other Tools:**      | LaTeX, MS Office (ECDL Expert), Solidworks, ANSYS, LS-DYNA, EASY, OpenFOAM |
 |  **Languages:**        | English (fluent), Italian (basic), Greek (native) |
 |  |   |
 -->
 
-- **Programming:** Proficient in C/C++, Python, Matlab, Fortran 95, Unix
-- **Libraries/Tools:** PyTorch, ROS, GPyTorch, GTSAM, Numpy, Eigen (C++), Git, OpenCV, CGAL, OpenFOAM, Arduino
-- **Other Tools:** LaTeX, MS Office (ECDL Expert), Solidworks, ANSYS, LS-DYNA, EASY
+- **Programming:** Proficient in C/C++, Python, Matlab, Fortran, MPI, OpenMP, Unix Scripting
+- **Libraries/Tools:** PyTorch, JAX, ROS, GPyTorch, GTSAM, Eigen (C++), SLURM, Git, OpenCV, CGAL
+- **Other Tools:** LaTeX, MS Office (ECDL Expert), Solidworks, ANSYS, , OpenFOAM, Arduino
 - **Languages:** English (fluent), Greek (native)
 
 **Publications**
@@ -153,8 +145,11 @@ Some of the topics that I have worked on include stochastic optimal control, hig
     and conjugate heat transfer problems", *Engineering Optimization*.
 
 **Conference Papers**
-
--   **Tsolovikos, A.**, Suryanarayanan, S., Bakolas, E., &
+-   Jariwala, A., **Tsolovikos, A.**, Suryanarayanan, S., 
+    Goldstein, D. B., and Bakolas, E. (2022). On the effect of 
+    manipulating Large Scale Motions in a Boundary Layer. In AIAA 
+    AVIATION 2022 Forum.
+-   **Tsolovikos, A.**, Suryanarayanan, S., Bakolas, E., and
     Goldstein, D. B. (2022). Multiple Model Dynamic Mode Decomposition
     for Flowfield and Model Parameter Estimation. In AIAA SCITECH 2022
     Forum (p. 2427).
@@ -218,4 +213,4 @@ Some of the topics that I have worked on include stochastic optimal control, hig
     University Entrance Examinations, Eurobank (2013)
     
     
-*Last update: June 18, 2022*
+*Last update: September 3, 2022*
