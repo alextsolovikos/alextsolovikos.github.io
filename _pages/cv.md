@@ -17,7 +17,8 @@ Some of the topics that I have worked on include stochastic optimal control, hig
 ------------------------------------------------------------------------
 ***
 
-<p><strong>MS/PhD, Aerospace Engineering</strong>, The University of Texas at Austin<span style="float:right;">[May 2023]</span></p>
+<p><strong>The University of Texas at Austin</strong> <span style="float:right;">Austin, TX</span></p>\
+<p>MS/PhD in Aerospace Engineering <span style="float:right;">May 2023</span></p>
 
 -   Master's and Doctoral student in the Department of Aerospace
     Engineering and Engineering Mechanics.
@@ -28,7 +29,8 @@ Some of the topics that I have worked on include stochastic optimal control, hig
     Dynamics, Dynamics of Turbulence, Multivariable Control Systems,
     Fluid Mechanics
 
-<p><strong>BS/MS, Mechanical Engineering</strong>, National Technical University of Athens <span style="float:right;">[February 2018]</span></p>
+<p><strong>National Technical University of Athens</strong> <span style="float:right;">Athens, Greece</span></p>\
+<p>BS/MS, Mechanical Engineering <span style="float:right;">February 2018</span></p>
 
 -   Bachelor of Science & Master of Science; 5-year joint degree; 300
     ECTS
@@ -47,13 +49,15 @@ Some of the topics that I have worked on include stochastic optimal control, hig
 ------------------------------------------------------------------------
 ***
 
-<p><strong>Radar Machine Learning Intern</strong>, Aptiv, Agoura Hills, CA <span style="float:right;">[May 2022 - August 2022]</span></p>
+<p><strong>Aptiv</strong> <span style="float:right;">Agoura Hills, CA</span></p>\
+<p>Radar Machine Learning Intern <span style="float:right;">May 2022 - August 2022</span></p>
 
 -   Worked on deep learning for object detection from low-level radar data.
 -   Trained and compared the performance of object detection models with different backbones, detection heads, and loss functions, leading to improved detection precision over the previously-used models.
 -   Created MMRadar: an extension of MMDetection & MMRotate libraries for radar-only object detection.
 
-<p><strong>Environment Perception Engineering Intern</strong>, Aptiv, Remote <span style="float:right;">[June 2021 - August 2021]</span></p>
+<p><strong>Aptiv</strong> <span style="float:right;">Remote, USA</span></p>\
+<p>Environment Perception Engineering Intern <span style="float:right;">June 2021 - August 2021</span></p>
 
 -   Remote internship with the Road Model Team.
 -   Developed a Radar-based Simultaneous Localization and Mapping (SLAM)
@@ -63,7 +67,8 @@ Some of the topics that I have worked on include stochastic optimal control, hig
     same area in the SLAM framework.
 -   Developed ROS pipeline in Python and C++.
 
-<p><strong>Environment Perception Engineering Intern</strong>, Aptiv, Remote <span style="float:right;">[June 2020 - July 2020]</span></p>
+<p><strong>Aptiv</strong> <span style="float:right;">Remote, USA</span></p>\
+<p>Environment Perception Engineering Intern <span style="float:right;">June 2020 - July 2020</span></p>
 
 -   Remote internship with the Road Model Team.
 -   Developed a sensor fusion framework for lane marker estimation from
