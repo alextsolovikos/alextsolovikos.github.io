@@ -17,7 +17,7 @@ Some of the topics that I have worked on include stochastic optimal control, hig
 ------------------------------------------------------------------------
 ***
 
-<p><strong>The University of Texas at Austin</strong> <span style="float:right;">Austin, TX</span></p>\
+<p><strong>The University of Texas at Austin</strong> <span style="float:right;">Austin, TX</span></p>
 <p>MS/PhD in Aerospace Engineering <span style="float:right;">May 2023</span></p>
 
 -   Master's and Doctoral student in the Department of Aerospace
@@ -29,7 +29,7 @@ Some of the topics that I have worked on include stochastic optimal control, hig
     Dynamics, Dynamics of Turbulence, Multivariable Control Systems,
     Fluid Mechanics
 
-<p><strong>National Technical University of Athens</strong> <span style="float:right;">Athens, Greece</span></p>\
+<p><strong>National Technical University of Athens</strong> <span style="float:right;">Athens, Greece</span></p>
 <p>BS/MS, Mechanical Engineering <span style="float:right;">February 2018</span></p>
 
 -   Bachelor of Science & Master of Science; 5-year joint degree; 300
@@ -49,14 +49,14 @@ Some of the topics that I have worked on include stochastic optimal control, hig
 ------------------------------------------------------------------------
 ***
 
-<p><strong>Aptiv</strong> <span style="float:right;">Agoura Hills, CA</span></p>\
+<p><strong>Aptiv</strong> <span style="float:right;">Agoura Hills, CA</span></p>
 <p>Radar Machine Learning Intern <span style="float:right;">May 2022 - August 2022</span></p>
 
 -   Worked on deep learning for object detection from low-level radar data.
 -   Trained and compared the performance of object detection models with different backbones, detection heads, and loss functions, leading to improved detection precision over the previously-used models.
 -   Created MMRadar: an extension of MMDetection & MMRotate libraries for radar-only object detection.
 
-<p><strong>Aptiv</strong> <span style="float:right;">Remote, USA</span></p>\
+<p><strong>Aptiv</strong> <span style="float:right;">Remote, USA</span></p>
 <p>Environment Perception Engineering Intern <span style="float:right;">June 2021 - August 2021</span></p>
 
 -   Remote internship with the Road Model Team.
@@ -67,7 +67,7 @@ Some of the topics that I have worked on include stochastic optimal control, hig
     same area in the SLAM framework.
 -   Developed ROS pipeline in Python and C++.
 
-<p><strong>Aptiv</strong> <span style="float:right;">Remote, USA</span></p>\
+<p><strong>Aptiv</strong> <span style="float:right;">Remote, USA</span></p>
 <p>Environment Perception Engineering Intern <span style="float:right;">June 2020 - July 2020</span></p>
 
 -   Remote internship with the Road Model Team.
@@ -80,7 +80,8 @@ Some of the topics that I have worked on include stochastic optimal control, hig
 ------------------------------------------------------------------------
 ***
 
-<p><strong>Graduate Researcher</strong>, The University of Texas at Austin <span style="float:right;">[August 2018 - Present]</span></p>
+<p><strong>The University of Texas at Austin</strong> <span style="float:right;">Austin, TX</span></p>
+<p>Graduate Research Assistant <span style="float:right;">August 2018 - Present</span></p>
 
 -   Developing **reinforcement learning algorithms for control of high-dimensional systems**, with an emphasis on turbulent flows.
 -   Main contributor to two collaborative National Science Foundation grants worth a total of nearly $1M.
@@ -92,7 +93,8 @@ Some of the topics that I have worked on include stochastic optimal control, hig
 -   Developing algorithms for **stochastic optimal control** of nonlinear systems using Gaussian processes.
 -   Contributed to the development of **distributed covariance steering** algorithms.
 
-<p><strong>Undergraduate/Associate Researcher</strong>, National Technical University of Athens <span style="float:right;">[May 2017 - July 2018]</span></p>
+<p><strong>National Technical University of Athens</strong> <span style="float:right;">Athens, Greece</span></p>
+<p>Undergraduate/Associate Researcher <span style="float:right;">May 2017 - July 2018</span></p>
 
 -   Group: *Parallel CFD and Optimization Unit*
 -   Research interests:
