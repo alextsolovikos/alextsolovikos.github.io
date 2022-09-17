@@ -26,7 +26,7 @@ Aerospace Engineering Ph.D. candidate at the University of Texas at Austin and M
 
 Experienced in: environment perception for automotive applications; simultaneous localization and mapping; vision and radar object detection; HD maps; computational geometry; high-performance computing; working with large codebases; transformer-based architectures; stochastic optimal control; and reinforcement learning.
 
-# Research
+## Research
 ***
 
 My research is mainly focused on **prediction and control of high-dimensional systems**, such as turbulent flows. Here are some of the topics that I am working on:
@@ -114,7 +114,7 @@ Through my involvement in the above topics, I have been using and developing mac
 
 -->
 
-# Industry Experience
+## Industry Experience
 ***
 
 As a three-time intern with **Aptiv**, I have worked extensively on:
@@ -124,14 +124,14 @@ As a three-time intern with **Aptiv**, I have worked extensively on:
 - Sensor fusion and nonlinear state estimation
 - HD Maps
 
-# Skills
+## Skills
 ***
 - **Programming:**     C++, Python, Matlab, Fortran, MPI, OpenMP, Unix Scripting
 - **Libraries/Tools:** PyTorch, JAX, ROS, GTSAM, Eigen, CVXPY, Git, CGAL, Vim, SLURM
 - **Languages:**       English (fluent), Greek (native)
 
 
-# Publications and Talks
+## Publications and Talks
 ***
 
 - [Control of Large-Scale Motions in Turbulent Boundary Layers, Talk at the California Institute of Technology, August 2nd, 2022](/docs/Caltech_Presentation-Reaping_the_Whirlwind-2022-08-02-Alex_Tsolovikos-share.pdf)
