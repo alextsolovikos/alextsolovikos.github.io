@@ -49,14 +49,13 @@ Some of the topics that I have worked on include stochastic optimal control, hig
 
 <p><strong>Radar Machine Learning Intern</strong>, Aptiv, Agoura Hills, CA <span style="float:right;">[May 2022 - August 2022]</span></p>
 
--   Deep learning for object detection using low-level radar data.
+-   Worked on deep learning for object detection from low-level radar data.
 -   Trained and compared the performance of object detection models with different backbones, detection heads, and loss functions, leading to improved detection precision over the previously-used models.
 -   Created MMRadar: an extension of MMDetection & MMRotate libraries for radar-only object detection.
 
 <p><strong>Environment Perception Engineering Intern</strong>, Aptiv, Remote <span style="float:right;">[June 2021 - August 2021]</span></p>
 
--   Remote internship supporting the Advanced Engineering/Road Model
-    team in Agoura Hills, CA.
+-   Remote internship with the Road Model Team.
 -   Developed a Radar-based Simultaneous Localization and Mapping (SLAM)
     framework that uses pose graphs and loop closures to create a Radar
     occupancy gridmap from scratch.
@@ -66,8 +65,7 @@ Some of the topics that I have worked on include stochastic optimal control, hig
 
 <p><strong>Environment Perception Engineering Intern</strong>, Aptiv, Remote <span style="float:right;">[June 2020 - July 2020]</span></p>
 
--   Remote internship supporting the Advanced Engineering/Road Model
-    team in Agoura Hills, CA.
+-   Remote internship with the Road Model Team.
 -   Developed a sensor fusion framework for lane marker estimation from
     vision, HD maps, GNSS, and odometry information, along with
     necessary data pipelines and visualization tools in Python.
@@ -79,15 +77,15 @@ Some of the topics that I have worked on include stochastic optimal control, hig
 
 <p><strong>Graduate Researcher</strong>, The University of Texas at Austin <span style="float:right;">[August 2018 - Present]</span></p>
 
--   Currently developing **reinforcement learning algorithms for control of high-dimensional systems**, with an emphasis on turbulent flows.
--   Developed a transformer model with a dynamics-aware Gaussian process head for **trajectory prediction**.
--   Developed **large-scale numerical simulations** of turbulent boundary layers.
--   Designed **model-predictive control algorithms and reduced-order models** for control of coherent structures in turbulent flows.
+-   Developing **reinforcement learning algorithms for control of high-dimensional systems**, with an emphasis on turbulent flows.
+-   Main contributor to two collaborative National Science Foundation grants worth a total of nearly $1M.
+-   Combining transformer models with dynamics-aware Gaussian processes for **trajectory prediction**.
+-   Developing **large-scale numerical simulations** of turbulent boundary layers.
+-   Designing **model-predictive control algorithms and reduced-order models** for control of coherent structures in turbulent flows.
 -   Developed sparse dynamic mode decomposition for control and estimation of high-dimensional systems.
--   Developed a multiple-model dynamic mode decomposition framework for flowfield and parameter estimation.
--   Developed algorithms for **stochastic optimal control** of nonlinear systems using Gaussian processes.
+-   Proposed a multiple-model dynamic mode decomposition framework for flowfield and parameter estimation.
+-   Developing algorithms for **stochastic optimal control** of nonlinear systems using Gaussian processes.
 -   Contributed to the development of **distributed covariance steering** algorithms.
--   Contributed to two National Science Foundation grants worth a total of nearly $1M.
 
 <p><strong>Undergraduate/Associate Researcher</strong>, National Technical University of Athens <span style="float:right;">[May 2017 - July 2018]</span></p>
 
@@ -169,6 +167,11 @@ Some of the topics that I have worked on include stochastic optimal control, hig
     (2020), "Toward model-based control of near-wall turbulent coherent
     structures", *AIAA SciTech 2020*, Orlando, FL, January 6-10, 2020.
 
+**Talks**
+- **Tsolovikos, A.**, "Control of Large-Scale Motions in Turbulent Boundary Layers", Caltech, August 2, 2022, Pasadena, CA.
+- **Tsolovikos, A.**, "Control of Large-Scale Motions in Boundary Layers", APS DFD 2021, November 22, 2021, Phoenix, AZ.
+- **Tsolovikos, A.**, "Model Predictive Control of Near-Wall Turbulent Coherent Structures", UT Austin ASE Seminar, February 13, 2020, Austin, TX.
+
 
 **Teaching Experience**
 ------------------------------------------------------------------------
@@ -213,4 +216,4 @@ Some of the topics that I have worked on include stochastic optimal control, hig
     University Entrance Examinations, Eurobank (2013)
     
     
-*Last update: September 3, 2022*
+*Last update: September 17, 2022*
