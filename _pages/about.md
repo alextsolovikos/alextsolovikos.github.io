@@ -126,11 +126,9 @@ As a three-time intern with **Aptiv**, I have worked extensively on:
 
 # Skills
 ***
-**Programming:**     C++, Python, Matlab, Fortran, MPI, OpenMP, Unix Scripting
-
-**Libraries/Tools:** PyTorch, JAX, ROS, GTSAM, Eigen, CVXPY, Git, CGAL, Vim, SLURM
-
-**Languages:**       English (fluent), Greek (native)
+- **Programming:**     C++, Python, Matlab, Fortran, MPI, OpenMP, Unix Scripting
+- **Libraries/Tools:** PyTorch, JAX, ROS, GTSAM, Eigen, CVXPY, Git, CGAL, Vim, SLURM
+- **Languages:**       English (fluent), Greek (native)
 
 
 # Publications
