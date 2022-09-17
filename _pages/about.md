@@ -131,10 +131,8 @@ As a three-time intern with **Aptiv**, I have worked extensively on:
 - **Languages:**       English (fluent), Greek (native)
 
 
-# Publications
+# Publications and Talks
 ***
-
-Here is a list of my most recent publications and talks:
 
 - [Control of Large-Scale Motions in Turbulent Boundary Layers, Talk at the California Institute of Technology, August 2nd, 2022](/docs/Caltech_Presentation-Reaping_the_Whirlwind-2022-08-02-Alex_Tsolovikos-share.pdf)
 - [Multiple Model Dynamic Mode Decomposition for Flowfield and Model Parameter Estimation, AIAA SciTech 2022](/publications/2022-01-07-Multiple-Model-DMD-Estimation/)
