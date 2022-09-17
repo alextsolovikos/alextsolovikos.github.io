@@ -175,9 +175,9 @@ Undergraduate/Associate Researcher <span style="float:right;">May 2017 - July 20
     structures", *AIAA SciTech 2020*, Orlando, FL, January 6-10, 2020.
 
 **Talks**
-- **Tsolovikos, A.**, "Control of Large-Scale Motions in Turbulent Boundary Layers", Caltech, August 2, 2022, Pasadena, CA.
-- **Tsolovikos, A.**, "Control of Large-Scale Motions in Boundary Layers", APS DFD 2021, November 22, 2021, Phoenix, AZ.
-- **Tsolovikos, A.**, "Model Predictive Control of Near-Wall Turbulent Coherent Structures", UT Austin ASE Seminar, February 13, 2020, Austin, TX.
+- "Control of Large-Scale Motions in Turbulent Boundary Layers", Caltech, August 2, 2022, Pasadena, CA.
+- "Control of Large-Scale Motions in Boundary Layers", APS DFD 2021, November 22, 2021, Phoenix, AZ.
+- "Model Predictive Control of Near-Wall Turbulent Coherent Structures", UT Austin ASE Seminar, February 13, 2020, Austin, TX.
 
 
 **Teaching Experience**
