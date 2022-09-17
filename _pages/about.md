@@ -31,8 +31,8 @@ Experienced in: environment perception for automotive applications; simultaneous
 
 My research is mainly focused on **prediction and control of high-dimensional systems**, such as turbulent flows. Here are some of the topics that I am working on:
 
-- Reduced-order modeling (such as dynamic mode decomposition)
-- Control of high-dimensional systems (e.g. turbulent flows)
+- Reduced-order modeling
+- Control of high-dimensional systems
 - Stochastic optimal control
 - Transformers for trajectory prediction
 - Dynamics-aware Gaussian process regression
