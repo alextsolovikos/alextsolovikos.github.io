@@ -14,24 +14,28 @@ Aerospace Engineering PhD candidate at the University of Texas at Austin and Mec
 I'm always looking for challenging problems with a purpose to work on!
 -->
 
+<!--
 Aerospace Engineering PhD candidate at the University of Texas at Austin and Mechanical Engineering graduate (BS/MS with highest honors) from the National Technical University of Athens with a wide engineering background and applied software skills in control theory, computational engineering, and machine learning. PhD research in ML for model reduction and control of high-dimensional, nonlinear systems, with an emphasis on turbulent flows. 
 
 Experienced in: environment perception for automotive applications; simultaneous localization and mapping; vision and radar object detection; HD maps; high-performance computing; working with large codebases in C++, Python, and Fortran; transformers for trajectory prediction; stochastic optimal control; and reinforcement learning.
 
 I'm always looking for impactful and challenging problems to work on!
+-->
+
+Aerospace Engineering Ph.D. candidate at the University of Texas at Austin and Mechanical Engineering graduate (BS/MS with highest honors) from the National Technical University of Athens with a wide engineering background in robotics, control theory, computational engineering, and machine learning. PhD research in ML for model reduction and control of high-dimensional, nonlinear systems, with an emphasis on turbulent flows.
+
+Experienced in: environment perception for automotive applications; simultaneous localization and mapping; vision and radar object detection; HD maps; computational geometry; high-performance computing; working with large codebases; transformer-based architectures; stochastic optimal control; and reinforcement learning.
 
 # Research
 ***
 
-My research is mainly focused on **prediction and control of high-dimensional systems**, such as turbulent flows. Here are some of the research topics that I am working on:
+My research is mainly focused on **prediction and control of high-dimensional systems**, such as turbulent flows. Here are some of the topics that I am working on:
 
-- Reduced-order modeling
-- Data-driven control
-- Turbulent flow control
+- Reduced-order modeling (such as dynamic mode decomposition)
+- Control of high-dimensional systems (e.g. turbulent flows)
 - Stochastic optimal control
 - Transformers for trajectory prediction
-- Dynamic mode decomposition
-- Gaussian processes
+- Dynamics-aware Gaussian process regression
 - High-performance computing
 
 <table style="width: 600px; margin-left: auto; margin-right: auto; border: 0px;">
@@ -109,6 +113,35 @@ Through my involvement in the above topics, I have been using and developing mac
 </table>
 
 -->
+
+# Industry Experience
+***
+
+As a three-time intern with Aptiv, I have worked extensively on:
+
+- Deep learning for object detection from low-level radar data
+- Radar-based localization and mapping
+- Sensor fusion and nonlinear state estimation
+- HD Maps and SLAM
+
+# Skills
+***
+Programming:     C++, Python, Matlab, Fortran, MPI, OpenMP, Unix Scripting
+Libraries/Tools: PyTorch, JAX, ROS, GTSAM, Eigen, CVXPY, Git, CGAL, Vim, SLURM
+Languages:       English (fluent), Greek (native)
+
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+
+| Time         | Length        | Speed              | Mass         |
+| ------------ | ------------- | ------------------ | ------------ |
+| -Millisecond | Millimetre    | Kilometre per hour | Milligram    |
+| Second       | Centimetre    | Foot per second    | Gram         |
+| Minute       | Inch          | Miles per hour     | Ounce        |
 
 # Publications
 ***
