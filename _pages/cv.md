@@ -75,7 +75,6 @@ Environment Perception Engineering Intern <span style="float:right;">June 2020 -
     vision, HD maps, GNSS, and odometry information, along with
     necessary data pipelines and visualization tools in Python.
 
-
 **Research Experience**
 ------------------------------------------------------------------------
 ***
