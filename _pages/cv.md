@@ -57,7 +57,7 @@ Radar Machine Learning Intern <span style="float:right;">May 2022 - August 2022<
 -   Created MMRadar: an extension of MMDetection & MMRotate libraries for radar-only object detection.
 
 <p><strong>Aptiv</strong> <span style="float:right;">Remote, USA</span><br>
-Environment Perception Engineering Intern <span style="float:right;">June 2021 - August 2021</span><br>
+Environment Perception Engineering Intern <span style="float:right;">June 2021 - August 2021</span><p>
 
 -   Remote internship with the Road Model Team.
 -   Developed a Radar-based Simultaneous Localization and Mapping (SLAM)
