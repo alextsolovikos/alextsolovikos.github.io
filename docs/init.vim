@@ -240,6 +240,7 @@ call plug#end()
 
 let b:coc_diagnostic_disable=1
 
+inoremap <silent><expr> <CR> coc#pum#visible() ? coc#pum#confirm() : "\<CR>"
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Other stuff
