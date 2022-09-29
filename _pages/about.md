@@ -122,7 +122,7 @@ As a three-time intern with **Aptiv**, I have worked extensively on:
 - Sensor fusion and nonlinear state estimation
 - HD Maps
 
-## Github Highlights
+## GitHub Highlights
 
 Here are some of my recent projects on Github:
 
