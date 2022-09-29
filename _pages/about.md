@@ -122,11 +122,22 @@ As a three-time intern with **Aptiv**, I have worked extensively on:
 - Sensor fusion and nonlinear state estimation
 - HD Maps
 
+## Github Highlights
+
+Here are some of my recent projects on Github:
+
+- (Goal Transformer: Dynamics-Aware Motion Prediction using Multidimensional Transformers and Gaussian Processes)[https://github.com/alextsolovikos/goal-transformer]
+- (Cautious Nonlinear Covariance Steering with Gaussian Processes)[https://github.com/alextsolovikos/greedyGPCS]
+- (Reinforcement Learning Control of Fluid Volumes)[https://github.com/alextsolovikos/cs394r_reinforcement_learning_control_of_lsms]
+- (Model Predictive Control of Fluid Volumes)[https://github.com/alextsolovikos/mpc_of_fluid_volumes]
+
+<!--
 ## Skills
 
 - **Programming:**     C++, Python, Matlab, Fortran, MPI, OpenMP, Unix Scripting
 - **Libraries/Tools:** PyTorch, JAX, ROS, GTSAM, Eigen, CVXPY, Git, CGAL, Vim, SLURM
 - **Languages:**       English (fluent), Greek (native)
+--->
 
 
 ## Publications and Talks
