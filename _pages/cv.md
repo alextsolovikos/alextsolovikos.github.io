@@ -56,7 +56,7 @@ Radar Machine Learning Intern <span style="float:right;">May 2022 - August 2022<
 -   Trained and compared the performance of object detection models with different backbones, detection heads, and loss functions, leading to improved detection precision over the previously-used models.
 -   Created MMRadar: an extension of MMDetection & MMRotate libraries for radar-only object detection.
 
-<p><strong>Aptiv</strong> <span style="float:right;">Remote, USA</span><br>
+<p> <span style="float:right;">Remote, USA</span><br>
 Environment Perception Engineering Intern <span style="float:right;">June 2021 - August 2021</span></p>
 
 -   Remote internship with the Road Model Team.
@@ -67,7 +67,7 @@ Environment Perception Engineering Intern <span style="float:right;">June 2021 -
     same area in the SLAM framework.
 -   Developed ROS pipeline in Python and C++.
 
-<p><strong>Aptiv</strong> <span style="float:right;">Remote, USA</span><br>
+<p> <span style="float:right;">Remote, USA</span><br>
 Environment Perception Engineering Intern <span style="float:right;">June 2020 - July 2020</span></p>
 
 -   Remote internship with the Road Model Team.
