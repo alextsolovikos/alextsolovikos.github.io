@@ -17,8 +17,9 @@ I'm always looking for challenging problems with a purpose to work on!
 Hi 👋
 
 I am an Aerospace Engineering PhD candidate at the University of Texas at Austin with a wide engineering background in robotics, control theory, computational engineering, and machine learning. My PhD research is in ML for model reduction and control of high-dimensional, nonlinear systems, with an emphasis on turbulent flows. I received my undergraduate degree (BS/MS with highest honors) in Mechanical Engineering from the National Technical University of Athens.
-
+<!--
 Some of my interests include: model predictive control; stochastic optimal control; reinforcement learning; environment perception for automotive applications; simultaneous localization and mapping; vision and radar object detection; transformer-based architectures for motion prediction; HD maps; computational geometry; high-performance computing; and working with large codebases.
+-->
 
 Some of my interests include: model predictive control • reinforcement learning • environment perception for automotive applications • simultaneous localization and mapping • vision and radar object detection • transformer-based architectures for motion prediction • HD maps • computational geometry • high-performance computing.
 
