@@ -123,6 +123,10 @@ As a three-time intern with **Aptiv**, I have worked extensively on:
 - Sensor fusion and nonlinear state estimation
 - HD Maps
 
+## Software Skills
+- **Programming:**     C++, Python, Matlab, Fortran, MPI, OpenMP, Unix Scripting
+- **Libraries/Tools:** PyTorch, JAX, ROS, GTSAM, Eigen, CVXPY, Git, CGAL, Vim, SLURM
+
 ## GitHub Highlights
 
 Here are some of my recent projects on Github:
