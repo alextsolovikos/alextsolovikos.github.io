@@ -124,8 +124,9 @@ As a three-time intern with **Aptiv**, I have worked extensively on:
 - HD Maps
 
 ## Software Skills
-- **Programming:**     C++, Python, Matlab, Fortran, MPI, OpenMP, Unix Scripting
-- **Libraries/Tools:** PyTorch, JAX, ROS, GTSAM, Eigen, CVXPY, Git, CGAL, Vim, SLURM
+- **Programming:**     Fluent in C++, Python, Matlab, Fortran
+- **Libraries:**       PyTorch, JAX, ROS, GTSAM, Eigen, CVXPY, CGAL
+- **Tools/Platforms:** Unix, MPI, OpenMP, Git, Vim, SLURM
 
 ## GitHub Highlights
 
@@ -139,9 +140,9 @@ Here are some of my recent projects on Github:
 <!--
 ## Skills
 
-- **Programming:**     C++, Python, Matlab, Fortran, MPI, OpenMP, Unix Scripting
-- **Libraries/Tools:** PyTorch, JAX, ROS, GTSAM, Eigen, CVXPY, Git, CGAL, Vim, SLURM
-- **Languages:**       English (fluent), Greek (native)
+- **Programming:**     Fluent in C++, Python, Matlab, Fortran
+- **Libraries:** PyTorch, JAX, ROS, GTSAM, Eigen, CVXPY, CGAL
+- **Tools/Platforms:** Unix, MPI, OpenMP, Git, Vim, SLURM
 --->
 
 
