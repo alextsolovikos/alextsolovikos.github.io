@@ -44,16 +44,17 @@ My research is mainly focused on **prediction and control of high-dimensional sy
 <table style="width: 600px; margin-left: auto; margin-right: auto; border: 0px;">
   <tbody>
     <tr>
-      <td colspan=2 style="width: 600px; text-align: center; vertical-align: top; border: 0px;">
-        <a><img src="https://alextsolovikos.github.io/docs/gif_tbl_small_animation_top_vew.gif" alt="Flow Control" width="600px"></a>
-      </td>
-    </tr>
-    <tr>
       <td style="width: 600px; text-align: center; vertical-align: top; border: 0px;">
           <img src="https://alextsolovikos.github.io/docs/greedy_covariance_2d.png" alt="Stochastic Optimal Control" width="40%" />
           <img src="https://alextsolovikos.github.io/docs/transformer_example_prediction.png" alt="Motion Prediction" width="59%" /> 
       </td>
     </tr>
+    <tr>
+      <td colspan=2 style="width: 600px; text-align: center; vertical-align: top; border: 0px;">
+        <a><img src="https://alextsolovikos.github.io/docs/gif_tbl_small_animation_top_vew.gif" alt="Flow Control" width="600px"></a>
+      </td>
+    </tr>
+
   </tbody>
 </table>
 
