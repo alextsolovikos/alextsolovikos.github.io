@@ -16,12 +16,12 @@ I'm always looking for challenging problems with a purpose to work on!
 
 Hi 👋
 
-I am an Aerospace Engineering PhD candidate at the University of Texas at Austin with a wide engineering background in robotics, control theory, computational engineering, and machine learning. My PhD research is in ML for model reduction and control of high-dimensional, nonlinear systems, with an emphasis on turbulent flows. I received my undergraduate degree (BS/MS with highest honors) in Mechanical Engineering from the National Technical University of Athens.
+I am an Aerospace Engineering PhD candidate at the University of Texas at Austin with experience in control and estimation theory, computational engineering, fluid flow physics, robotics, and machine learning. My PhD research is in ML for model reduction and control of high-dimensional, nonlinear systems, with an emphasis on turbulent flows. I received my undergraduate degree (BS/MS with highest honors) in Mechanical Engineering from the National Technical University of Athens.
 <!--
 Some of my interests include: model predictive control; stochastic optimal control; reinforcement learning; environment perception for automotive applications; simultaneous localization and mapping; vision and radar object detection; transformer-based architectures for motion prediction; HD maps; computational geometry; high-performance computing; and working with large codebases.
 -->
 
-Some of my interests include: model predictive control • reinforcement learning • environment perception for automotive applications • simultaneous localization and mapping • vision and radar object detection • transformer-based architectures for motion prediction • HD maps • computational geometry • high-performance computing.
+Some of my interests include: model predictive control • reinforcement learning • perception for autonomous driving • simultaneous localization and mapping • vision and radar object detection • transformer-based architectures for motion prediction • HD maps • computational geometry • high-performance computing • and computational physics.
 
 <!--
 
@@ -32,13 +32,13 @@ Experienced in: environment perception for automotive applications; simultaneous
 
 ## Research
 
-My research is mainly focused on **prediction and control of high-dimensional systems**, such as turbulent flows. Here are some of the topics that I am working on:
+My research is mainly focused on **prediction and control of turbulent flows**. Here are some of the topics that I am working on:
 
 - Reduced-order modeling
-- Model predictive control of high-dimensional systems
-- Stochastic optimal control
+- Model predictive control for turbulent boundary layers
+- Data-driven stochastic optimal control
 - Transformers for trajectory prediction
-- Dynamics-aware Gaussian process regression
+- Gaussian process regression for dynamics
 - High-performance computing
 
 <table style="width: 600px; margin-left: auto; margin-right: auto; border: 0px;">
@@ -152,6 +152,7 @@ Here are some of my recent projects on Github:
 
 ## Publications and Talks
 
+- [Separation Delay in Turbulent Boundary Layers via Model Predictive Control of Large-Scale Motions, APS DFD 2022](/publications/2022-11-21-separation-delay/)
 - [Control of Large-Scale Motions in Turbulent Boundary Layers, Talk at the California Institute of Technology, August 2nd, 2022](/docs/Caltech_Presentation-Reaping_the_Whirlwind-2022-08-02-Alex_Tsolovikos-share.pdf)
 - [Multiple Model Dynamic Mode Decomposition for Flowfield and Model Parameter Estimation, AIAA SciTech 2022](/publications/2022-01-07-Multiple-Model-DMD-Estimation/)
 - [Control of Large-Scale Motions in Boundary Layers, APS DFD 2021](/publications/2021-11-19-control-of-lsms/)
