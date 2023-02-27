@@ -32,7 +32,7 @@ Experienced in: environment perception for automotive applications; simultaneous
 
 ## Research
 
-My research is mainly focused on **prediction and control of turbulent flows**. Here are some of the topics that I am working on:
+My research is focused on **estimation, control, and model reduction for high-dimensional systems**, such as turbulent flows. Here are some of the topics that I am working on:
 
 - Reduced-order modeling
 - Model predictive control for turbulent boundary layers
